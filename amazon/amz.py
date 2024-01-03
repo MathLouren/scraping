@@ -1,18 +1,11 @@
 import time
 import json
 from selenium import webdriver
-from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
 import uuid
 
-options = {
-        'proxy': {
-            'http': 'http://5dab7c172c70a8eb:RNW78Fm5@185.130.105.109:10000',
-            'https': 'https://5dab7c172c70a8eb:RNW78Fm5@185.130.105.109:10000',
-            'no_proxy': 'localhost,127.0.0.1'
-        }
-    }
+
 
 def generate_random_id():
     return str(uuid.uuid4())
@@ -23,7 +16,7 @@ def create_items():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
+    driver = webdriver.Chrome(options=chrome_options)
     driver.get(url)
     time.sleep(2)
     driver.refresh()
@@ -36,7 +29,7 @@ def create_items():
 
     # Carregar dados existentes do arquivo JSON
     try:
-        with open("products.json", "r", encoding='utf-8') as json_file:
+        with open("amazon.json", "r", encoding='utf-8') as json_file:
             existing_data = json.load(json_file)
     except FileNotFoundError:
         # Se o arquivo não existir, inicialize com uma lista vazia
@@ -91,7 +84,7 @@ def create_items():
                 pass
 
         # Salve os dados atualizados no arquivo JSON
-        with open("products.json", "w", encoding='utf-8') as json_file:
+        with open("amazon.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
         try:
@@ -117,7 +110,7 @@ def verif_items():
     urls_json = []
     urls_now = []
     try:
-        with open("products.json", "r", encoding='utf-8') as json_file:
+        with open("amazon.json", "r", encoding='utf-8') as json_file:
             existing_data = json.load(json_file)
             for product in existing_data:
                 for pdr in product.get('products', []):
@@ -131,7 +124,7 @@ def verif_items():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
+    driver = webdriver.Chrome(options=chrome_options)
 
     itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
 
@@ -166,7 +159,7 @@ def verif_items():
                                     }
                                     pdr['price_updates'].append(update_entry)
 
-                                    with open("products.json", "w", encoding='utf-8') as json_file:
+                                    with open("amazon.json", "w", encoding='utf-8') as json_file:
                                         json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
                                 else:
                                     pass
@@ -196,7 +189,7 @@ def verif_items():
             except:
                 break
 
-        with open("products.json", "w", encoding='utf-8') as json_file:
+        with open("amazon.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
     driver.quit()
@@ -204,7 +197,7 @@ def verif_items():
 # url_new = []
 #
 # def new_items():
-#     with open("products.json", "r", encoding='utf-8') as json_file:
+#     with open("amazon.json", "r", encoding='utf-8') as json_file:
 #         existing_data = json.load(json_file)
 #         for product in existing_data:
 #             for pdr in product.get('products', []):

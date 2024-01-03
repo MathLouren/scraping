@@ -19,7 +19,7 @@ def generate_random_id():
 url = "https://www.kabum.com.br/hardware/ssd-2-5"
 
 try:
-    with open("products.json", "r", encoding='utf-8') as json_file:
+    with open("kabum.json", "r", encoding='utf-8') as json_file:
         existing_data = json.load(json_file)
 except FileNotFoundError:
     # Se o arquivo não existir, inicialize com uma lista vazia
@@ -90,16 +90,19 @@ def create_item():
 
         # Salve os dados atualizados no arquivo JSON (fora do loop)
         existing_data.append(result_data)
-        with open("products.json", "w", encoding='utf-8') as json_file:
+        with open("kabum.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
 
 def check_itens():
     urls_json = []
+    urls_now = []
     for item in existing_data:
         if item["url"] == url:
             for url_item in item['products']:
                 urls_json.append(url_item['url'])
+
+    chrome_options = webdriver.ChromeOptions()
 
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
@@ -125,6 +128,7 @@ def check_itens():
                 title_item = item.find_element(By.CSS_SELECTOR, 'main .nameCard').text
                 url_item = item.find_element(By.CSS_SELECTOR, 'main .productLink').get_attribute('href')
                 price_item = item.find_element(By.CSS_SELECTOR, 'main .priceCard').text
+                urls_now.append(url_item)
                 if price_item != "R$ ----":
                     if url_item in urls_json:
                         for product in existing_data:
@@ -140,7 +144,7 @@ def check_itens():
                                             }
                                             itn['price_updates'].append(update_entry)
 
-                                            with open("products.json", "w", encoding='utf-8') as json_file:
+                                            with open("kabum.json", "w", encoding='utf-8') as json_file:
                                                 json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
                     if url_item not in urls_json:
@@ -155,11 +159,10 @@ def check_itens():
                                     "price_updates": [{"date": save_date, "price": price_item}]
                                 })
 
-                                with open("products.json", "w", encoding='utf-8') as json_file:
+                                with open("kabum.json", "w", encoding='utf-8') as json_file:
                                     json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
                                 print(f'O item com url: {url_item} foi adicionado')
-
 
 
                 else:
@@ -170,7 +173,10 @@ def check_itens():
             time.sleep(3)
             contador += 1
     except:
+        time.sleep(10)
         pass
+
+
 
 
 

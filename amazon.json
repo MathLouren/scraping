@@ -102,7 +102,7 @@
             {
                 "id": 4,
                 "name": "Ventilador 40cm Super Turbo 8 Pás Repelente Pastilha, Mondial, Preto/Prata, 140W, 220V - VTX-40-8P-RP",
-                "price": "309",
+                "price": "239",
                 "url": "https://www.amazon.com.br/Ventilador-Turbo-Velocidades-Mondial-VTX-40-8P-RP/dp/B07Z521MG9",
                 "price_updates": [
                     {
@@ -136,6 +136,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "309"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "239"
                     }
                 ]
             },
@@ -262,7 +266,7 @@
             {
                 "id": 11,
                 "name": "Ventilador Coluna Turbo Pro 55, Mondial, Preto, 150W, 220V - NVC-PRO-55",
-                "price": "378",
+                "price": "426",
                 "url": "https://www.amazon.com.br/Ventilador-Coluna-Mondial-NVC-PRO-55-VENT/dp/B0971HW9N3",
                 "price_updates": [
                     {
@@ -296,6 +300,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "378"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "426"
                     }
                 ]
             },
@@ -370,7 +378,7 @@
             {
                 "id": 17,
                 "name": "Circulador de Ar 30cm Premium, Mondial, Preto/Prata, 60W, 220V - CA-02 6P",
-                "price": "219",
+                "price": "248",
                 "url": "https://www.amazon.com.br/Circulador-Premium-Mondial-CA-02-6P/dp/B078JYQR47",
                 "price_updates": [
                     {
@@ -428,6 +436,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "219"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "248"
                     }
                 ]
             },
@@ -802,7 +814,7 @@
             {
                 "id": "ca00f59e-5d49-400b-8725-338ecfc5c3a6",
                 "name": "Ventilador 40cm Super Turbo 8 Pás, Mondial, Preto/Prata, 140W, 110V - VTX-40-8P",
-                "price": "219",
+                "price": "203",
                 "url": "https://www.amazon.com.br/Ventilador-Turbo-Velocidades-Mondial-VTX-40-8P/dp/B07YL7P5XY",
                 "price_updates": [
                     {
@@ -820,6 +832,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "219"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "203"
                     }
                 ]
             },
@@ -860,6 +876,18 @@
                     {
                         "date": "02/01/2024",
                         "price": "147"
+                    }
+                ]
+            },
+            {
+                "id": "1081e940-b348-45bb-b1fe-5aed83cd7a68",
+                "name": "Ventilador Coluna 40cm Super Power, Mondial, Preto/Prata, 140W, 220V - VSP-40C-NB",
+                "price": "329",
+                "url": "https://www.amazon.com.br/Ventilador-Coluna-Super-Power-Mondial/dp/B0CHFZ91BF",
+                "price_updates": [
+                    {
+                        "date": "02/01/2024",
+                        "price": "329"
                     }
                 ]
             }
@@ -924,7 +952,7 @@
             {
                 "id": 1,
                 "name": "Copo térmico de cerveja Stanley|473ml",
-                "price": "124",
+                "price": "140",
                 "url": "https://www.amazon.com.br/Copo-T%C3%A9rmico-Cerveja-473ml-Stanley/dp/B079Y85F2G",
                 "price_updates": [
                     {
@@ -1006,6 +1034,18 @@
                     {
                         "date": "02/01/2024",
                         "price": "124"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "140"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "124"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "140"
                     }
                 ]
             },
@@ -1029,6 +1069,14 @@
                     },
                     {
                         "date": "29/12/2023",
+                        "price": "157"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "143"
+                    },
+                    {
+                        "date": "02/01/2024",
                         "price": "157"
                     }
                 ]
@@ -1216,7 +1264,7 @@
             {
                 "id": 8,
                 "name": "Camp Mug Stanley Matte Black | 350ml",
-                "price": "187",
+                "price": "188",
                 "url": "https://www.amazon.com.br/Stanley-Camp-Mug-350ML/dp/B0B57GPWY1",
                 "price_updates": [
                     {
@@ -1242,6 +1290,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "187"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "188"
                     }
                 ]
             },
@@ -1724,7 +1776,7 @@
             {
                 "id": 23,
                 "name": "Caneca Térmica de Cerveja Stanley Flame Red 709ML",
-                "price": "175",
+                "price": "185",
                 "url": "https://www.amazon.com.br/Caneca-T%C3%A9rmica-Cerveja-0-709L/dp/B0B2KVCKK1",
                 "price_updates": [
                     {
@@ -1758,6 +1810,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "175"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "185"
                     }
                 ]
             },
@@ -3404,7 +3460,7 @@
             {
                 "id": 97,
                 "name": "Garrafa térmica Stanley Go Growler, 1,8 L",
-                "price": "350",
+                "price": "351",
                 "url": "https://www.amazon.com.br/Stanley-Growler-inoxid%C3%A1vel-interior-reten%C3%A7%C3%A3o/dp/B086CT6XGZ",
                 "price_updates": [
                     {
@@ -3426,6 +3482,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "350"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "351"
                     }
                 ]
             },
@@ -3584,7 +3644,7 @@
             {
                 "id": 109,
                 "name": "Bule Térmico Aladdin Tokio De Gatilho Cinza | 1L",
-                "price": "63",
+                "price": "48",
                 "url": "https://www.amazon.com.br/T%C3%A9rmico-Aladdin-Tokio-Gatilho-Cinza/dp/B0C47N9YB9",
                 "price_updates": [
                     {
@@ -3618,6 +3678,10 @@
                     {
                         "date": "31/12/2023",
                         "price": "63"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "48"
                     }
                 ]
             },
@@ -4001,6 +4065,14 @@
                     },
                     {
                         "date": "01/01/2024",
+                        "price": "149"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "175"
+                    },
+                    {
+                        "date": "02/01/2024",
                         "price": "149"
                     },
                     {
@@ -4744,7 +4816,7 @@
             {
                 "id": "d6a77d99-9e00-49df-a846-d86387dc41c9",
                 "name": "Stanley Copo Quencher 2.0 Rose Quartz | 1,18L",
-                "price": "418",
+                "price": "417",
                 "url": "https://www.amazon.com.br/Stanley-Copo-Quencher-Rose-Quartz/dp/B0CGR65CJJ",
                 "price_updates": [
                     {
@@ -4766,6 +4838,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "418"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "417"
                     }
                 ]
             },
@@ -4852,12 +4928,16 @@
             {
                 "id": "e1a32708-604e-40cd-bf56-7f158c423ccc",
                 "name": "Garrafa térmica Quick Flip Stanley|710ml",
-                "price": "276",
+                "price": "245",
                 "url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Quick-Stanley-Guava/dp/B098LPR4TF",
                 "price_updates": [
                     {
                         "date": "28/12/2023",
                         "price": "276"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "245"
                     }
                 ]
             },
@@ -5134,7 +5214,7 @@
             {
                 "id": 2,
                 "name": "NIVEA Sabonete Líquido Óleo de Banho 200ml - Com 55% de óleos naturais, produz espuma cremosa e proporciona hidratação intensa, maciez e cuidado único com a pele",
-                "price": "31",
+                "price": "29",
                 "url": "https://www.amazon.com.br/Sabonete-L%C3%ADquido-Natural-200ml-Nivea/dp/B00XDX9JJY",
                 "price_updates": [
                     {
@@ -5160,6 +5240,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "31"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "29"
                     }
                 ]
             },
@@ -5418,12 +5502,16 @@
             {
                 "id": 15,
                 "name": "NIVEA Hidratante Facial Beleza Radiante 7 em 1 100g - 7 benefícios em 1 potinho: reduz marcas escurecidas, controla oleosidade, uniformiza, ilumina, hidrata, proteção UVA/UVB e efeito matte",
-                "price": "28",
+                "price": "29",
                 "url": "https://www.amazon.com.br/NIVEA-Hidratante-Facial-Beleza-Radiante/dp/B0B1RY94G6",
                 "price_updates": [
                     {
                         "date": "20/12/2023",
                         "price": "28"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "29"
                     }
                 ]
             },
@@ -5850,7 +5938,7 @@
             {
                 "id": 36,
                 "name": "NIVEA Sabonete Líquido Frangipani & Oil 250ml - Fragrância da flor frangipani com pérolas de óleo, sensação de pele macia e hidratada",
-                "price": "15",
+                "price": "14",
                 "url": "https://www.amazon.com.br/Sabonete-L%C3%ADquido-Nivea-Frangipani-250ml/dp/B079VPDDBF",
                 "price_updates": [
                     {
@@ -5860,6 +5948,10 @@
                     {
                         "date": "26/12/2023",
                         "price": "15"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "14"
                     }
                 ]
             },
@@ -6074,7 +6166,7 @@
             {
                 "id": 49,
                 "name": "NIVEA SUN Protetor Solar Facial Tripla Proteção Loção Antiacne FPS 50 40ml - Com fórmula ultraleve e alta proteção, esse protetor solar tem triplo combate contra os raios UVA/UVB, radicais livres e luz visível, além de prevenir a oleosidade excessiva e proporciona efeito matte",
-                "price": "49",
+                "price": "30",
                 "url": "https://www.amazon.com.br/NIVEA-Protetor-Facial-Prote%C3%A7%C3%A3o-Antiacne/dp/B0B8BHQNMW",
                 "price_updates": [
                     {
@@ -6084,6 +6176,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "49"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "30"
                     }
                 ]
             },
@@ -6126,7 +6222,7 @@
             {
                 "id": 52,
                 "name": "NIVEA Creme Facial Antissinais Cellular Lift Dia FPS 30 50ml - Creme facial antissinais com bakuchiol puro, ativo revolucionário estimula a produção de colágeno em apenas 4 horas revelando uma pele mais jovem",
-                "price": "65",
+                "price": "59",
                 "url": "https://www.amazon.com.br/NIVEA-Facial-Cellular-Antissinais-Avan%C3%A7ado/dp/B0B1RNKZC8",
                 "price_updates": [
                     {
@@ -6140,6 +6236,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "65"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "59"
                     }
                 ]
             },
@@ -6250,7 +6350,7 @@
             {
                 "id": 59,
                 "name": "NIVEA Gel Esfoliante Facial Refrescante 75ml - Limpeza profunda e estimulação da renovação celular, contém as vitaminas E e B5, remove as células mortas sem causar irritação",
-                "price": "28",
+                "price": "22",
                 "url": "https://www.amazon.com.br/Limpeza-Esfoliante-Visage-Aqua-NIVEA/dp/B079VS9FM2",
                 "price_updates": [
                     {
@@ -6260,6 +6360,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "28"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "22"
                     }
                 ]
             },
@@ -6330,7 +6434,7 @@
             {
                 "id": 62,
                 "name": "NIVEA Creme Hidratante Soft 97g - Hidratação suave e textura leve de rápida absorção que deixa sua pele macia e com sensação de refrescância",
-                "price": "34",
+                "price": "26",
                 "url": "https://www.amazon.com.br/NIVEA-result-feed-gl_beauty-part_number-Soft-97g-Nivea/dp/B0042PY9VU",
                 "price_updates": [
                     {
@@ -6340,6 +6444,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "34"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "26"
                     }
                 ]
             },
@@ -6782,7 +6890,7 @@
             {
                 "id": 85,
                 "name": "Protetor Solar Nivea Sun FPS 30 200ml + Protetor Solar Nivea Sun FPS 30 100ml",
-                "price": "54",
+                "price": "39",
                 "url": "https://www.amazon.com.br/Protetor-Solar-Nivea-200ml-100ml/dp/B084GXSL51",
                 "price_updates": [
                     {
@@ -6812,6 +6920,14 @@
                     {
                         "date": "02/01/2024",
                         "price": "54"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "59"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "39"
                     }
                 ]
             },
@@ -7070,7 +7186,7 @@
             {
                 "id": 96,
                 "name": "NIVEA Hidratante Desodorante Beleza Radiante Cuidado Intenso 200ml - Para a beleza da pele negra, reduz estrias em 2 semanas* e alivia a descamação da pele causada pelo ressecamento",
-                "price": "15",
+                "price": "12",
                 "url": "https://www.amazon.com.br/NIVEA-Hidratante-Desodorante-Radiante-Cuidado/dp/B0B1RSP997",
                 "price_updates": [
                     {
@@ -7088,6 +7204,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "15"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "12"
                     }
                 ]
             },
@@ -7502,7 +7622,7 @@
             {
                 "id": 118,
                 "name": "NIVEA SUN Pós Sol Reparador 175ml - Com bio Aloe Vera, o pós-sol acalma e previne a vermelhidão da pele, com efeito antioxidante e textura em gel, promovendo sensação de alívio instantâneo",
-                "price": "49",
+                "price": "38",
                 "url": "https://www.amazon.com.br/NIVEA-SUN-P%C3%B3s-Reparador-175ml/dp/B0BLFVR1HL",
                 "price_updates": [
                     {
@@ -7516,6 +7636,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "49"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "38"
                     }
                 ]
             },
@@ -8018,7 +8142,7 @@
             {
                 "id": 144,
                 "name": "NIVEA MEN Espuma de Barbear Original Protect - Ativos hidratantes, previne o ressecamento e irritações, com Aloe Vera e Glicerina - 200ml",
-                "price": "19",
+                "price": "26",
                 "url": "https://www.amazon.com.br/Espuma-Barbear-193g-200ml-Nivea/dp/B0094GWMK2",
                 "price_updates": [
                     {
@@ -8032,6 +8156,10 @@
                     {
                         "date": "22/12/2023",
                         "price": "19"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "26"
                     }
                 ]
             },
@@ -8238,7 +8366,7 @@
             {
                 "id": 155,
                 "name": "NIVEA Desodorante Antitranspirante Aerossol Pearl & Beauty 200ml - Proteção eficaz de 48 horas contra suor e mau odor, com Extrato de Pérolas, promove axilas bonitas e uniformes",
-                "price": "18",
+                "price": "14",
                 "url": "https://www.amazon.com.br/NIVEA-Desodorante-Antitranspirante-Aerossol-Beauty/dp/B0BVBZL5GL",
                 "price_updates": [
                     {
@@ -8288,6 +8416,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "18"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "14"
                     }
                 ]
             },
@@ -8682,7 +8814,7 @@
             {
                 "id": 178,
                 "name": "Nivea Protetor Labial Essential Care 4,8G",
-                "price": "17",
+                "price": "22",
                 "url": "https://www.amazon.com.br/Nivea-Protetor-Labial-Essential-Care/dp/B001E97B3U",
                 "price_updates": [
                     {
@@ -8724,6 +8856,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "17"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "22"
                     }
                 ]
             },
@@ -8810,7 +8946,7 @@
             {
                 "id": 183,
                 "name": "Kit com 2 Desodorantes Antitranspirante Roll On NIVEA Protect & Care 50ml, Nivea",
-                "price": "17",
+                "price": "16",
                 "url": "https://www.amazon.com.br/Desodorantes-Antitranspirante-NIVEA-Protect-Nivea/dp/B08YBC4YNC",
                 "price_updates": [
                     {
@@ -8824,6 +8960,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "17"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "16"
                     }
                 ]
             },
@@ -8902,7 +9042,7 @@
             {
                 "id": 187,
                 "name": "Espuma Barbear Nivea Men Carvão Ativado 200ml",
-                "price": "29",
+                "price": "25",
                 "url": "https://www.amazon.com.br/Espuma-Barbear-Nivea-Carv%C3%A3o-Ativado/dp/B084GXP4SK",
                 "price_updates": [
                     {
@@ -8916,6 +9056,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "29"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "25"
                     }
                 ]
             },
@@ -9262,7 +9406,7 @@
             {
                 "id": "e8047a00-4055-420a-b10b-d779b17093c8",
                 "name": "NIVEA Hidratante Labial Original Care - Com Manteiga de Karité & Pantenol, hidrata por 12 horas oferecendo proteção e cuidados intensivos aos seus lábios - 4,8g",
-                "price": "18",
+                "price": "14",
                 "url": "https://www.amazon.com.br/Protetor-Labial-Original-Care-Nivea/dp/B00UYG172U",
                 "price_updates": [
                     {
@@ -9272,6 +9416,10 @@
                     {
                         "date": "30/12/2023",
                         "price": "18"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "14"
                     }
                 ]
             },
@@ -9354,7 +9502,7 @@
             {
                 "id": "21cef193-36c6-4e88-9e4b-daa9cd1394d1",
                 "name": "NIVEA Creme Lata - Hidratação profunda para as áreas mais ressecadas como cotovelo, calcanhar, joelho, mãos e pés, também protege do frio e cuida da pele tatuada - 56g",
-                "price": "19",
+                "price": "18",
                 "url": "https://www.amazon.com.br/Creme-Nivea-Hidratante-Lata-56g/dp/B079VTJLMZ",
                 "price_updates": [
                     {
@@ -9368,18 +9516,26 @@
                     {
                         "date": "02/01/2024",
                         "price": "19"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "18"
                     }
                 ]
             },
             {
                 "id": "9dae6a49-2baf-4165-b4c3-9d96096927f3",
                 "name": "NIVEA SUN Protetor Solar Protect & Hidrata FPS 50 200ml - Com toque seco, rápida absorção e resistente à água, esse protetor solar oferece altíssima proteção ao sol e promove hidratação à pele",
-                "price": "48",
+                "price": "49",
                 "url": "https://www.amazon.com.br/Protetor-Solar-Light-Feeling-Nivea/dp/B079VXP6B6",
                 "price_updates": [
                     {
                         "date": "20/12/2023",
                         "price": "48"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "49"
                     }
                 ]
             },
@@ -9682,12 +9838,16 @@
             {
                 "id": "22c93803-5369-4b6b-aab1-90996ca1d293",
                 "name": "NIVEA Sabonete Líquido Refil Creme Care 200ml - Sensação de pele intensamente hidratada com o melhor do NIVEA Creme",
-                "price": "6",
+                "price": "7",
                 "url": "https://www.amazon.com.br/Sabonete-L%C3%ADquido-Nivea-Creme-Refil/dp/B08KK3KSNP",
                 "price_updates": [
                     {
                         "date": "02/01/2024",
                         "price": "6"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "7"
                     }
                 ]
             },
@@ -15516,7 +15676,7 @@
             {
                 "id": "669c9402-082f-4271-9619-12dc954b5831",
                 "name": "Notebook Samsung Book2 i5 8GB 256SSD W11P NP550XED-KF6BR",
-                "price": "3.640",
+                "price": "3.830",
                 "url": "https://www.amazon.com.br/Notebook-Samsung-Book2-256SSD-NP550XED-KF6BR/dp/B0C4BY9V6W",
                 "price_updates": [
                     {
@@ -15526,6 +15686,10 @@
                     {
                         "date": "28/12/2023",
                         "price": "3.640"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "3.830"
                     }
                 ]
             },
@@ -15764,7 +15928,7 @@
             {
                 "id": "14c24595-5d46-4dd9-978e-4e2066541247",
                 "name": "Tablet Samsung Galaxy Tab S6 Lite, 64GB, 4GB RAM, Tela Imersiva de 10.4', Câmera Traseira 8MP, Câmera frontal de 5MP, Wifi, Android 13",
-                "price": "1.549",
+                "price": "1.517",
                 "url": "https://www.amazon.com.br/Samsung-Imersiva-Traseira-frontal-Android/dp/B0C5S9QM58",
                 "price_updates": [
                     {
@@ -15778,6 +15942,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "1.549"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "1.517"
                     }
                 ]
             },
@@ -15926,7 +16094,7 @@
             {
                 "id": 2,
                 "name": "Fritadeira Sem Óleo Air Fryer 5L, Mondial, Preto/Inox, 1900W, 110V - AFN-50-BI",
-                "price": "398",
+                "price": "390",
                 "url": "https://www.amazon.com.br/Fritadeira-Fryer-Mondial-Preto-1900W/dp/B08HZBX16R",
                 "price_updates": [
                     {
@@ -15944,6 +16112,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "398"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "390"
                     }
                 ]
             },
@@ -18542,7 +18714,7 @@
             {
                 "id": 1,
                 "name": "Console PlayStation 5",
-                "price": "4.469",
+                "price": "4.499",
                 "url": "https://www.amazon.com.br/PlayStation-CFI-1214A01X-Console-5/dp/B0BNSR3MW9",
                 "price_updates": [
                     {
@@ -18580,6 +18752,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "4.469"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "4.499"
                     }
                 ]
             },
@@ -18814,7 +18990,7 @@
             {
                 "id": 13,
                 "name": "Marvel's Spider-Man 2 - Edição Standard - PlayStation 5",
-                "price": "359",
+                "price": "378",
                 "url": "https://www.amazon.com.br/Marvels-Spider-Man-Edi%C3%A7%C3%A3o-Standard-PlayStation/dp/B0CHZ18WJW",
                 "price_updates": [
                     {
@@ -18840,6 +19016,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "359"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "378"
                     }
                 ]
             },
@@ -18974,7 +19154,7 @@
             {
                 "id": 20,
                 "name": "Controle sem fio DualSense™ Gray Camouflage",
-                "price": "449",
+                "price": "413",
                 "url": "https://www.amazon.com.br/Controle-sem-DualSenseTM-Gray-Camouflage/dp/B0BH56T8FD",
                 "price_updates": [
                     {
@@ -19008,6 +19188,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "449"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "413"
                     }
                 ]
             },
@@ -19198,7 +19382,7 @@
             {
                 "id": 31,
                 "name": "PlayStation®4 + God of War Ragnarök",
-                "price": "2.799",
+                "price": "3.295",
                 "url": "https://www.amazon.com.br/PlayStation%C2%AE4-God-of-War-Ragnar%C3%B6k/dp/B0BMWBQNLX",
                 "price_updates": [
                     {
@@ -19216,6 +19400,10 @@
                     {
                         "date": "02/01/2024",
                         "price": "2.799"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "3.295"
                     }
                 ]
             },
@@ -19264,6 +19452,14 @@
                     {
                         "date": "02/01/2024",
                         "price": "469"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "459"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "445"
                     },
                     {
                         "date": "02/01/2024",
@@ -20858,12 +21054,16 @@
             {
                 "id": "e5160c00-9763-4442-8212-a8eb6a43739a",
                 "name": "LEGO Worlds (PS4)",
-                "price": "63",
+                "price": "88",
                 "url": "https://www.amazon.com.br/Sony-1000632732-LEGO-Worlds-PS4/dp/B01N1P5FV6",
                 "price_updates": [
                     {
                         "date": "28/12/2023",
                         "price": "63"
+                    },
+                    {
+                        "date": "02/01/2024",
+                        "price": "88"
                     }
                 ]
             },

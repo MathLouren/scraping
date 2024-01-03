@@ -43,7 +43,7 @@ def home():
 
 @app.route('/terabyte', methods=['GET', 'POST'])
 def terabyte():
-    data = read_from_file("./Terabyte/products.json")
+    data = read_from_file("Terabyte/products.json")
 
     for item in data:
         for info in item['products']:

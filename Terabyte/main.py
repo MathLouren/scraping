@@ -3,16 +3,7 @@ import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-from seleniumwire import webdriver
 import uuid
-
-options = {
-        'proxy': {
-            'http': 'http://5dab7c172c70a8eb:RNW78Fm5@185.130.105.109:10000',
-            'https': 'https://5dab7c172c70a8eb:RNW78Fm5@185.130.105.109:10000',
-            'no_proxy': 'localhost,127.0.0.1'
-        }
-    }
 
 def generate_random_id():
     return str(uuid.uuid4())
@@ -25,7 +16,7 @@ def create_items():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
+    driver = webdriver.Chrome()
 
     list_urls = []
     list_urls_json = []
@@ -73,7 +64,7 @@ def create_items():
 
         # Carregue os dados existentes do arquivo JSON
         try:
-            with open("products.json", "r", encoding='utf-8') as existing_json_file:
+            with open("terabyte.json", "r", encoding='utf-8') as existing_json_file:
                 existing_data = json.load(existing_json_file)
 
             for item in existing_data:
@@ -119,16 +110,16 @@ def create_items():
                         continue
 
                 # Salve os dados em um novo arquivo JSON
-                with open("products.json", "w", encoding='utf-8') as json_file:
+                with open("terabyte.json", "w", encoding='utf-8') as json_file:
                     existing_data.append(result_data)
                     json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
-            with open('products.json', 'r', encoding='utf-8') as f:
+            with open('terabyte.json', 'r', encoding='utf-8') as f:
                 data_all = json.load(f)
 
         except:
             # Se o arquivo não existir, crie um novo arquivo JSON
-            print(f"Arquivo 'products.json' não encontrado. Criando novo arquivo...")
+            print(f"Arquivo 'terabyte.json' não encontrado. Criando novo arquivo...")
             save_date = time.strftime("%d/%m/%Y")
             for index, prodarea_div in enumerate(prodarea_divs, start=1):
                 a_element = prodarea_div.find_element(By.TAG_NAME, 'a')
@@ -153,7 +144,7 @@ def create_items():
                 except:
                     continue
 
-            with open("products.json", "w", encoding='utf-8') as json_file:
+            with open("terabyte.json", "w", encoding='utf-8') as json_file:
                 json.dump([result_data], json_file, indent=2, ensure_ascii=False)
 
     finally:
@@ -170,7 +161,7 @@ def update_prices():
         target_file_name = title
 
         try:
-            with open('products.json', 'r', encoding='utf-8') as json_file:
+            with open('terabyte.json', 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
 
             for item in data:
@@ -196,7 +187,7 @@ def update_prices():
                                             print(f"Preço atualizado para: {product['price']}")
 
                                             # Salve as alterações de volta no arquivo JSON
-                                            with open('products.json', 'w', encoding='utf-8') as json_file:
+                                            with open('terabyte.json', 'w', encoding='utf-8') as json_file:
                                                 json.dump(data, json_file, indent=2, ensure_ascii=False)
                                     else:
                                         pass
@@ -220,7 +211,7 @@ def update_prices():
     #             }
     #             product['price_updates'].append(update_entry)
     #
-    #             with open('products.json', 'w', encoding='utf-8') as json_file:
+    #             with open('terabyte.json', 'w', encoding='utf-8') as json_file:
     #                 json.dump(data, json_file, indent=2, ensure_ascii=False)
     #             print(product['url'])
 
@@ -231,7 +222,7 @@ def update_prices():
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument('--headless')
 
-        driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
+        driver = webdriver.Chrome(options=chrome_options)
 
         driver.get(data['url'])
 
@@ -275,7 +266,7 @@ def update_prices():
 
 
 
-    with open('products.json', 'r', encoding='utf-8') as f:
+    with open('terabyte.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     for item in data:
