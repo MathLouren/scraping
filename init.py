@@ -1,22 +1,19 @@
-from amazon import amz
-from kabum import kabum
-from Terabyte import main
+import schedule
+import time
+from amazon.amz import verif_items
+from kabum.kabum import init_check
 
+def amazon():
+    print("Verificando itens na Amazon...")
+    verif_items()
 
-try:
-    print('Kabum')
-    kabum()
-except Exception as e:
-    print(f'ALGUM ERRO OCORREU NO SCRAPING DA KABUM: {e}')
+def kabum():
+    init_check()
 
-try:
-    print('Amazon')
-    amz()
-except Exception as e:
-    print(f'ALGUM ERRO OCORREU NO SCRAPING DA AMAZON: {e}')
+schedule.every(30).minutes.do(amazon)
+schedule.every(120).minutes.do(kabum)
 
-try:
-    print('Terabyte')
-    main()
-except Exception as e:
-    print(f'ALGUM ERRO OCORREU NO SCRAPING DA TERABYTE: {e}')
+# O loop abaixo mantém o programa em execução para verificar se as tarefas agendadas devem ser executadas
+while True:
+    schedule.run_pending()
+    time.sleep(1)

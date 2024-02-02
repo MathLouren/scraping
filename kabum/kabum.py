@@ -192,5 +192,3 @@ def init_check():
             check_itens()
         except:
             pass
-
-create_item()

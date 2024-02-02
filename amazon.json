@@ -1388,6 +1388,14 @@
                     {
                         "date": "02/02/2024",
                         "price": "145"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "156"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "145"
                     }
                 ]
             },
@@ -2176,7 +2184,7 @@
             {
                 "id": 4,
                 "name": "Copo Quencher Stanley Pool | 1,18L",
-                "price": "315",
+                "price": "314",
                 "url": "https://www.amazon.com.br/Copo-Quencher-Stanley-Pool-18L/dp/B0CGR2CDVG",
                 "price_updates": [
                     {
@@ -2270,6 +2278,10 @@
                     {
                         "date": "31/01/2024",
                         "price": "315"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "314"
                     }
                 ]
             },
@@ -2900,7 +2912,7 @@
             {
                 "id": 10,
                 "name": "Tumbler Térmico Flip Straw Stanley Azalea | 887ml",
-                "price": "313",
+                "price": "298",
                 "url": "https://www.amazon.com.br/Tumbler-T%C3%A9rmico-Straw-Stanley-887ML/dp/B0B8PDBYS1",
                 "price_updates": [
                     {
@@ -2986,6 +2998,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "313"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "298"
                     }
                 ]
             },
@@ -8584,7 +8600,7 @@
             {
                 "id": "ff33b5e8-11e7-409c-85a7-35926368624e",
                 "name": "Mug Neverleak Stanley Hammertone-Clay | 250ml",
-                "price": "199",
+                "price": "189",
                 "url": "https://www.amazon.com.br/Mug-Neverleak-Stanley-Hammertone-Clay-250ml/dp/B0CBNMSX5W",
                 "price_updates": [
                     {
@@ -8614,6 +8630,10 @@
                     {
                         "date": "31/01/2024",
                         "price": "199"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "189"
                     }
                 ]
             },
@@ -10524,12 +10544,16 @@
             {
                 "id": "6f83b849-28a8-42b8-83d6-b1b3933c5d0c",
                 "name": "Stanley Cerveja Adventure Stacking 473 ml aço inoxidável",
-                "price": "169",
+                "price": "159",
                 "url": "https://www.amazon.com.br/Stanley-Cerveja-Adventure-Stacking-inoxid%C3%A1vel/dp/B0C2G9S4Z4",
                 "price_updates": [
                     {
                         "date": "01/02/2024",
                         "price": "169"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "159"
                     }
                 ]
             },
@@ -11218,7 +11242,7 @@
             {
                 "id": 10,
                 "name": "Fritadeira Sem Óleo Air Fryer 4L, Mondial, Preto/Inox, 1500W, 110V - AFN-40-TBI",
-                "price": "402",
+                "price": "593",
                 "url": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Family-Mondial-AFN-40-TBI/dp/B09NL7SGXW",
                 "price_updates": [
                     {
@@ -11236,6 +11260,10 @@
                     {
                         "date": "19/01/2024",
                         "price": "402"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "593"
                     }
                 ]
             },
@@ -13634,7 +13662,7 @@
             {
                 "id": "8297c6a4-c739-4e18-9005-c46d81bba251",
                 "name": "Fritadeira Air Fryer Dual Duplo Cesto 8L, Mondial, 2200W, 220V - AFD-01-BI",
-                "price": "959",
+                "price": "899",
                 "url": "https://www.amazon.com.br/Fritadeira-Fryer-Duplo-Cesto-Mondial/dp/B0C6FS1S7K",
                 "price_updates": [
                     {
@@ -13668,6 +13696,10 @@
                     {
                         "date": "01/02/2024",
                         "price": "959"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "899"
                     }
                 ]
             },
@@ -13846,7 +13878,7 @@
             {
                 "id": "88e9e463-2d37-471b-91b3-89066238b5f0",
                 "name": "Fritadeira Sem Óleo Air Fryer 4L, Mondial, Vermelho/Inox, 1500W, 110V - AFN-40-RI",
-                "price": "306",
+                "price": "342",
                 "url": "https://www.amazon.com.br/Fritadeira-MONDIAL-Family-Inox-Red/dp/B093MNS4JV",
                 "price_updates": [
                     {
@@ -13868,6 +13900,10 @@
                     {
                         "date": "01/02/2024",
                         "price": "306"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "342"
                     }
                 ]
             },
@@ -15044,7 +15080,7 @@
             {
                 "id": 11,
                 "name": "Base De Carregamento Do Dualsense - Padrão - PlayStation 5",
-                "price": "194",
+                "price": "209",
                 "url": "https://www.amazon.com.br/Base-Carregamento-Do-Dualsense-PlayStation/dp/B09JH4PD8Q",
                 "price_updates": [
                     {
@@ -15094,6 +15130,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "194"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "209"
                     }
                 ]
             },
@@ -18928,7 +18968,7 @@
             {
                 "id": "906001cc-c2ce-4b39-be30-f6ee75d65e82",
                 "name": "Controle Dualsense - Galactic Purple",
-                "price": "436",
+                "price": "455",
                 "url": "https://www.amazon.com.br/PlayStation-Controle-Dualsense-Galactic-Purple/dp/B09NN4FVWF",
                 "price_updates": [
                     {
@@ -18946,6 +18986,10 @@
                     {
                         "date": "28/01/2024",
                         "price": "436"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "455"
                     }
                 ]
             },
@@ -20304,7 +20348,7 @@
             {
                 "id": "f6a51bd3-c4b0-46cf-a83b-f857b213893f",
                 "name": "CONSOLE PLAYSTATION 4 + GOD OF WAR RAGNAROK",
-                "price": "2.625",
+                "price": "2.620",
                 "url": "https://www.amazon.com.br/CONSOLE-PLAYSTATION-GOD-WAR-RAGNAROK/dp/B0BMWBQNLX",
                 "price_updates": [
                     {
@@ -20346,6 +20390,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "2.625"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.620"
                     }
                 ]
             },
@@ -20838,7 +20886,7 @@
             {
                 "id": 9,
                 "name": "Notebook Positivo Vision C15 Lumina Bar Celeron, 4GB 128GB eMMC, Tela 15 polegadas HD Antirreflexo, Windows 11, Tecla Link - Cinza -2 ANOS DE GARANTIA",
-                "price": "1.299",
+                "price": "1.310",
                 "url": "https://www.amazon.com.br/Notebook-Positivo-Celeron-polegadas-Antirreflexo/dp/B0CCJQ7B9R",
                 "price_updates": [
                     {
@@ -20864,13 +20912,17 @@
                     {
                         "date": "02/02/2024",
                         "price": "1.299"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.310"
                     }
                 ]
             },
             {
                 "id": 10,
                 "name": "Notebook Positivo Vision C14 Lumina Bar Celeron, 4GB 128GB eMMC, Tela 14 Polegadas HD Antirreflexo, Windows 11, Tecla Link – Cinza",
-                "price": "1.078",
+                "price": "1.099",
                 "url": "https://www.amazon.com.br/Notebook-Positivo-Celeron-Polegadas-Antirreflexo/dp/B0CCC27GWY",
                 "price_updates": [
                     {
@@ -20888,6 +20940,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "1.078"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.099"
                     }
                 ]
             },
@@ -21114,7 +21170,7 @@
             {
                 "id": 21,
                 "name": "Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 256GB SSD Intel UHD Graphics Windows 11 15.6', Cinza, 82MD000ABR",
-                "price": "2.426",
+                "price": "2.299",
                 "url": "https://www.amazon.com.br/Notebook-Lenovo-i3-1115G4-Graphics-82MD000ABR/dp/B09ZKCVTFR",
                 "price_updates": [
                     {
@@ -21140,13 +21196,17 @@
                     {
                         "date": "02/02/2024",
                         "price": "2.426"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.299"
                     }
                 ]
             },
             {
                 "id": 22,
                 "name": "Lenovo 82MG0009BR - Notebook ideapad Gaming 3i, i5-11300H, 8GB, 512GB SSD Dedicada GTX 1650 4GB 15.6\" FHD WVA W11, Preto",
-                "price": "4.299",
+                "price": "3.779",
                 "url": "https://www.amazon.com.br/Lenovo-Notebook-i5-11300H-Dedicada-82MG0009BR/dp/B0B75K9725",
                 "price_updates": [
                     {
@@ -21156,6 +21216,10 @@
                     {
                         "date": "01/02/2024",
                         "price": "4.299"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.779"
                     }
                 ]
             },
@@ -21286,7 +21350,7 @@
             {
                 "id": 33,
                 "name": "Galaxy Book2 Intel® Core™ i3-1215U, Windows 11 Home, 4GB, 256GB SSD, 15.6'' Full HD LED, 1.81kg*.",
-                "price": "2.799",
+                "price": "1.898",
                 "url": "https://www.amazon.com.br/Galaxy-Intel%C2%AE-CoreTM-i3-1215U-Windows/dp/B0CB6XBMPV",
                 "price_updates": [
                     {
@@ -21312,6 +21376,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "2.799"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.898"
                     }
                 ]
             },
@@ -21390,7 +21458,7 @@
             {
                 "id": 37,
                 "name": "Lenovo 82MD0007BR IdeaPad 3i i5 - Notebook-1135G7 8GB 256GB SSD Placa de Vídeo Intel Iris Xe Windows 11 15.6', Cinza",
-                "price": "3.590",
+                "price": "2.564",
                 "url": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-i5-1135G7-82MD0007BR/dp/B0B35BGG1P",
                 "price_updates": [
                     {
@@ -21432,6 +21500,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "3.590"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.564"
                     }
                 ]
             },
@@ -29218,12 +29290,16 @@
             {
                 "id": 566,
                 "name": "Aspire 3 - A315-58-32UT",
-                "price": "3.499",
+                "price": "2.659",
                 "url": "https://www.amazon.com.br/ACER-Aspire-3-A315-58-32UT/dp/B0B94QBQHK",
                 "price_updates": [
                     {
                         "date": "21/01/2024",
                         "price": "3.499"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.659"
                     }
                 ]
             },
@@ -30650,12 +30726,16 @@
             {
                 "id": "ae733086-c363-448b-ae0c-094551ef0e14",
                 "name": "Notebook Lenovo IdeaPad 1 i3-1215U 4GB 256GB SSD 15.6'' W11",
-                "price": "2.058",
+                "price": "2.023",
                 "url": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-i3-1215U-256GB/dp/B0CJGW3Y93",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "2.058"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.023"
                     }
                 ]
             },
@@ -31336,12 +31416,16 @@
             {
                 "id": 29,
                 "name": "Whisky Chivas Regal 18 anos Escocês - 750 ml",
-                "price": "429",
+                "price": "424",
                 "url": "https://www.amazon.com.br/Whisky-Escoc%C3%AAs-Anos-Garrafa-750ml/dp/B001P4WGGQ",
                 "price_updates": [
                     {
                         "date": "01/02/2024",
                         "price": "429"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "424"
                     }
                 ]
             },
@@ -31412,12 +31496,16 @@
             {
                 "id": 35,
                 "name": "Ballantine's Whisky 17 Anos Blended Escocês - 750 Ml",
-                "price": "349",
+                "price": "361",
                 "url": "https://www.amazon.com.br/Whisky-Ballantines-17-anos-750ml/dp/B07P26CY2G",
                 "price_updates": [
                     {
                         "date": "01/02/2024",
                         "price": "349"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "361"
                     }
                 ]
             },
@@ -31608,7 +31696,7 @@
             {
                 "id": 54,
                 "name": "Whisky Jack Daniels Apple, 1L",
-                "price": "139",
+                "price": "168",
                 "url": "https://www.amazon.com.br/Whisky-Jack-Daniels-Apple-1L/dp/B085P94ML6",
                 "price_updates": [
                     {
@@ -31618,6 +31706,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "139"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "168"
                     }
                 ]
             },
@@ -32008,12 +32100,16 @@
             {
                 "id": 89,
                 "name": "Black & White Whisky Orange 700Ml",
-                "price": "62",
+                "price": "57",
                 "url": "https://www.amazon.com.br/Whisky-Black-White-Orange-700ml/dp/B08QKN6C36",
                 "price_updates": [
                     {
                         "date": "01/02/2024",
                         "price": "62"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "57"
                     }
                 ]
             },
@@ -34296,7 +34392,7 @@
             {
                 "id": 310,
                 "name": "Jogo de 6 Copos de Vidro para Whisky Bar Rocks 265ml Nadir Figueiredo",
-                "price": "77",
+                "price": "65",
                 "url": "https://www.amazon.com.br/Copos-Vidro-Whisky-Rocks-Figueiredo/dp/B0C8P8Z98B",
                 "price_updates": [
                     {
@@ -34306,6 +34402,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "77"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "65"
                     }
                 ]
             },
@@ -34756,6 +34856,54 @@
                         "price": "292"
                     }
                 ]
+            },
+            {
+                "id": "dcd0441c-d458-4ac8-8bcc-d11360999bcc",
+                "name": "Campari Licor Negroni Negroni Sabor 500Ml",
+                "price": "128",
+                "url": "https://www.amazon.com.br/Licor-Campari-Negroni-Sabor-500Ml/dp/B01B16BA5A",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "128"
+                    }
+                ]
+            },
+            {
+                "id": "6797ba08-5de7-4b28-a800-0f2670445402",
+                "name": "Whiskey Tango Foxtrot [Blu-ray]",
+                "price": "159",
+                "url": "https://www.amazon.com.br/Whiskey-Tango-Foxtrot-Blu-ray-Tina/dp/B019FIFRFA",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "159"
+                    }
+                ]
+            },
+            {
+                "id": "451b6844-a4c1-4325-94c8-a1f86593fff1",
+                "name": "Kit Degustação com 6 Miniaturas 50ml",
+                "price": "206",
+                "url": "https://www.amazon.com.br/Kit-Degusta%C3%A7%C3%A3o-com-Miniaturas-50ml/dp/B0C6VST5LL",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "206"
+                    }
+                ]
+            },
+            {
+                "id": "96d17bf4-8c81-468f-9b90-4ed7cec76543",
+                "name": "Whisky The Famous Grouse 750ml",
+                "price": "105",
+                "url": "https://www.amazon.com.br/Whisky-The-Famous-Grouse-750ml/dp/B004AWD3GC",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "105"
+                    }
+                ]
             }
         ]
     },
@@ -34862,12 +35010,16 @@
             {
                 "id": 8,
                 "name": "PHILCO Ar-Condicionado Portátil PAC12000F5 Frio Vírus Protect 127V, Cor: Branco",
-                "price": "3.114",
+                "price": "3.300",
                 "url": "https://www.amazon.com.br/PHILCO-Ar-Condicionado-Port%C3%A1til-PAC12000F5-Protect/dp/B0BBJG7W4K",
                 "price_updates": [
                     {
                         "date": "01/02/2024",
                         "price": "3.114"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.300"
                     }
                 ]
             },
@@ -34902,7 +35054,7 @@
             {
                 "id": 11,
                 "name": "Ar-Condicionado Portátil Philco PAC12000QF5 Quente/Frio 127V",
-                "price": "3.394",
+                "price": "3.544",
                 "url": "https://www.amazon.com.br/Ar-Condicionado-Port%C3%A1til-Philco-PAC12000QF5-Quente/dp/B0BBJVMF7B",
                 "price_updates": [
                     {
@@ -34912,6 +35064,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "3.394"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.544"
                     }
                 ]
             },
@@ -38266,6 +38422,78 @@
                         "price": "7.436"
                     }
                 ]
+            },
+            {
+                "id": "f681d23f-b946-4e16-a6c4-eb3fc9814788",
+                "name": "Ar-condicionado Split Samsung Digital Inverter Ultra 9.000 BTUs Frio AR09CVHZAWKNAZ Branco 220V Kit",
+                "price": "2.768",
+                "url": "https://www.amazon.com.br/Ar-condicionado-Samsung-Digital-Inverter-AR09CVHZAWKNAZ/dp/B0156Q18FS",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.768"
+                    }
+                ]
+            },
+            {
+                "id": "ffdb7a5f-5944-4c4d-950c-5fe7b3d76ef3",
+                "name": "Ar condicionado janela 7500 BTUs Consul frio eletrônico com design moderno - CCN07FB 220V",
+                "price": "2.099",
+                "url": "https://www.amazon.com.br/Condicionado-Janela-Consul-Eletr%C3%B4nico-CCN07FBANA/dp/B0BZ2CYR9B",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.099"
+                    }
+                ]
+            },
+            {
+                "id": "384d32be-ba54-49db-9d3a-1c1d080f0bca",
+                "name": "Ar-condicionado Split Inverter 12000 Btus Springer Midea Xtreme Save Connect High Wall Quente e Frio 42agvqi12m5/38agvqi12m5 220v",
+                "price": "3.203",
+                "url": "https://www.amazon.com.br/Ar-condicionado-Springer-Midea-42agvqi12m5-38agvqi12m5/dp/B0CLT99GVK",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.203"
+                    }
+                ]
+            },
+            {
+                "id": "68ed0d81-6ddc-4db5-85a2-505a6afe5cf1",
+                "name": "Ar Condicionado Split Inverter Agratto Neo 24.000 BTU/h Quente e Frio ICS24QF R4 02 220 Volts",
+                "price": "5.798",
+                "url": "https://www.amazon.com.br/Condicionado-Agratto-24-000-Quente-ICS24QF/dp/B07LCVHXW1",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "5.798"
+                    }
+                ]
+            },
+            {
+                "id": "02e659d2-7c30-4450-b5bd-3155073de6a4",
+                "name": "Ar Condicionado Split HW Inverter Fujitsu 12.000 BTUs Quente/Frio 220V",
+                "price": "3.669",
+                "url": "https://www.amazon.com.br/Condicionado-Inverter-Fujitsu-12-000-Quente/dp/B0771QM9BR",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.669"
+                    }
+                ]
+            },
+            {
+                "id": "f47ae307-cf32-40a0-b46c-3dc8dcf268e4",
+                "name": "Ar-Condicionado Split HW Elgin Eco Inverter II Wi-Fi 12.000 BTUs R-32 Quente/Frio 220V",
+                "price": "3.399",
+                "url": "https://www.amazon.com.br/Ar-Condicionado-Elgin-Inverter-12-000-Quente/dp/B0CKS21GY3",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.399"
+                    }
+                ]
             }
         ]
     },
@@ -38798,12 +39026,16 @@
             {
                 "id": 20,
                 "name": "Adaptador de Lightning para conector de fones de ouvido de 3,5 mm",
-                "price": "99",
+                "price": "86",
                 "url": "https://www.amazon.com.br/Adaptador-Apple-Lightning-Conector-MMX62BZ/dp/B076C92B3R",
                 "price_updates": [
                     {
                         "date": "01/02/2024",
                         "price": "99"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "86"
                     }
                 ]
             },
@@ -39072,6 +39304,18 @@
                     {
                         "date": "02/02/2024",
                         "price": "16.299"
+                    }
+                ]
+            },
+            {
+                "id": "0dbeb1e8-1b9d-42bf-a029-3047e8f20a8e",
+                "name": "Apple iPhone 12 (64 GB) - (PRODUCT) RED",
+                "price": "2.999",
+                "url": "https://www.amazon.com.br/Apple-iPhone-12-64-GB-PRODUCT/dp/B09B2QHYWW",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.999"
                     }
                 ]
             }
@@ -39448,12 +39692,16 @@
             {
                 "id": 29,
                 "name": "Adaptador de Lightning para conector de fones de ouvido de 3,5 mm",
-                "price": "99",
+                "price": "86",
                 "url": "https://www.amazon.com.br/Adaptador-Apple-Lightning-Conector-MMX62BZ/dp/B076C92B3R",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "99"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "86"
                     }
                 ]
             },
@@ -39696,6 +39944,18 @@
                         "price": "9.994"
                     }
                 ]
+            },
+            {
+                "id": "87effae4-69c4-4f42-8833-6b7d4f680240",
+                "name": "Apple iPhone 14 Pro Max (1TB) – Prateado",
+                "price": "9.799",
+                "url": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-1TB/dp/B0BDTX7MSC",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "9.799"
+                    }
+                ]
             }
         ]
     },
@@ -39730,12 +39990,16 @@
             {
                 "id": 2,
                 "name": "Apple iPhone 15 Pro (256 GB) — Titânio Azul",
-                "price": "8.799",
+                "price": "9.099",
                 "url": "https://www.amazon.com.br/Apple-iPhone-15-Pro-256/dp/B0CHXB2HFC",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "8.799"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "9.099"
                     }
                 ]
             },
@@ -40274,12 +40538,16 @@
             {
                 "id": 46,
                 "name": "Adaptador de Lightning para conector de fones de ouvido de 3,5 mm",
-                "price": "99",
+                "price": "86",
                 "url": "https://www.amazon.com.br/Adaptador-Apple-Lightning-Conector-MMX62BZ/dp/B076C92B3R",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "99"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "86"
                     }
                 ]
             },
@@ -40648,7 +40916,7 @@
             {
                 "id": 15,
                 "name": "Microondas ME3EP Preto 34 litros",
-                "price": "1.249",
+                "price": "1.299",
                 "url": "https://www.amazon.com.br/Microondas-ME3EP-Preto-34-litros/dp/B08DL84W8M",
                 "price_updates": [
                     {
@@ -40658,6 +40926,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "1.249"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.299"
                     }
                 ]
             },
@@ -41060,7 +41332,7 @@
             {
                 "id": 44,
                 "name": "Microondas Philco 28L Espelhado Branco PMO28EB 220V",
-                "price": "668",
+                "price": "638",
                 "url": "https://www.amazon.com.br/Microondas-Philco-Espelhado-Branco-PMO28EB/dp/B09G4VHY14",
                 "price_updates": [
                     {
@@ -41070,6 +41342,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "668"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "638"
                     }
                 ]
             },
@@ -41516,7 +41792,7 @@
             {
                 "id": 80,
                 "name": "Fogão Electrolux 4 Bocas Experience com VaporBake Preto FE4DP",
-                "price": "2.364",
+                "price": "2.349",
                 "url": "https://www.amazon.com.br/Fog%C3%A3o-Electrolux-Experience-VaporBake-FE4DP/dp/B0CF6BTQV8",
                 "price_updates": [
                     {
@@ -41526,6 +41802,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "2.364"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.349"
                     }
                 ]
             },
@@ -41560,7 +41840,7 @@
             {
                 "id": 83,
                 "name": "Micro-ondas de bancada MC34B branco e com 34L",
-                "price": "673",
+                "price": "779",
                 "url": "https://www.amazon.com.br/Micro-ondas-Continental-34L-Branco-MC34B/dp/B083M5TS2X",
                 "price_updates": [
                     {
@@ -41570,6 +41850,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "673"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "779"
                     }
                 ]
             },
@@ -41772,7 +42056,7 @@
             {
                 "id": 100,
                 "name": "Micro-ondas de bancada MC34S silver e com 34L",
-                "price": "692",
+                "price": "769",
                 "url": "https://www.amazon.com.br/Micro-ondas-bancada-MC34S-silver-com/dp/B0B9T689FS",
                 "price_updates": [
                     {
@@ -41782,13 +42066,17 @@
                     {
                         "date": "02/02/2024",
                         "price": "692"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "769"
                     }
                 ]
             },
             {
                 "id": 101,
                 "name": "Micro-ondas de bancada MC34S silver e com 34L",
-                "price": "692",
+                "price": "769",
                 "url": "https://www.amazon.com.br/Forno-Micro-Ondas-Continental-MC34S-Prata/dp/B08JHT63HM",
                 "price_updates": [
                     {
@@ -41798,6 +42086,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "692"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "769"
                     }
                 ]
             },
@@ -42036,6 +42328,18 @@
                         "price": "627"
                     }
                 ]
+            },
+            {
+                "id": "f8b0619a-6a2f-4e9a-b1f5-f460a7d22a6b",
+                "name": "Micro-ondas Britânia BMO29EB Multifunções 28 Litros 1400W (110)",
+                "price": "549",
+                "url": "https://www.amazon.com.br/Micro-ondas-Brit%C3%A2nia-BMO29EB-Multifun%C3%A7%C3%B5es-Litros/dp/B0BX4HP33H",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "549"
+                    }
+                ]
             }
         ]
     },
@@ -42122,7 +42426,7 @@
             {
                 "id": 6,
                 "name": "GELADEIRA PANASONIC BB41 BLACK GLASS 397L",
-                "price": "3.929",
+                "price": "4.299",
                 "url": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-BLACK-GLASS/dp/B0BZJT7LD4",
                 "price_updates": [
                     {
@@ -42132,6 +42436,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "3.929"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "4.299"
                     }
                 ]
             },
@@ -43418,12 +43726,16 @@
             {
                 "id": 108,
                 "name": "Black+Decker Mini refrigerador com função aquecer 2 em 1 e versátil 48W MR60-BR, Cinza",
-                "price": "472",
+                "price": "474",
                 "url": "https://www.amazon.com.br/Black-Decker-refrigerador-vers%C3%A1til-MR60-BR/dp/B0B3FCW6KQ",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "472"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "474"
                     }
                 ]
             },
@@ -43442,12 +43754,16 @@
             {
                 "id": 110,
                 "name": "Freezer e Refrigerador Philco PFV300I Vertical 232L Inox 127V",
-                "price": "4.348",
+                "price": "3.998",
                 "url": "https://www.amazon.com.br/Freezer-Refrigerador-Philco-PFV300I-Vertical/dp/B0BGYKWMPJ",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "4.348"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.998"
                     }
                 ]
             },
@@ -43466,12 +43782,16 @@
             {
                 "id": 112,
                 "name": "Refrigerador 370L 2 Portas Frost Free 110 Volts, Branco, Continental",
-                "price": "2.954",
+                "price": "2.899",
                 "url": "https://www.amazon.com.br/Refrigerador-Frost-Free-Branco-370Litros/dp/B083LDRV1N",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "2.954"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.899"
                     }
                 ]
             },
@@ -43578,7 +43898,7 @@
             {
                 "id": 121,
                 "name": "Adega Electrolux 12 garrafas 1 Porta Preta Acabamento em Alumínio (ACB12) Bivolt",
-                "price": "719",
+                "price": "849",
                 "url": "https://www.amazon.com.br/Electrolux-garrafas-Acabamento-Alum%C3%ADnio-Bivolt/dp/B09JV55TDR",
                 "price_updates": [
                     {
@@ -43588,6 +43908,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "719"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "849"
                     }
                 ]
             },
@@ -43710,7 +44034,7 @@
             {
                 "id": 131,
                 "name": "Adega ACB08 Electrolux 8 garrafas 1 Porta Preta Acabamento em Alumínio - Bivolt",
-                "price": "699",
+                "price": "799",
                 "url": "https://www.amazon.com.br/Adega-Electrolux-garrafas-Acabamento-Alum%C3%ADnio/dp/B09K3MHLRC",
                 "price_updates": [
                     {
@@ -43720,6 +44044,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "699"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "799"
                     }
                 ]
             },
@@ -44632,6 +44960,30 @@
                     {
                         "date": "02/02/2024",
                         "price": "1.699"
+                    }
+                ]
+            },
+            {
+                "id": "c925ba71-62fd-4a32-9254-7cf37ac187df",
+                "name": "Refrigerador Bottom Freezer Electrolux de 02 Portas Frost Free com 400 Litros Autosense Inox - Db44s",
+                "price": "4.099",
+                "url": "https://www.amazon.com.br/Refrigerador-Bottom-Freezer-Electrolux-Autosense/dp/B0B2KHK7VY",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "4.099"
+                    }
+                ]
+            },
+            {
+                "id": "b6a24531-eee6-40b8-bd12-22206c30dbb2",
+                "name": "Geladeira Electrolux Frost Free Duplex Efficient com AutoSense cor Inox Look 390L (IF43S) 127V",
+                "price": "3.599",
+                "url": "https://www.amazon.com.br/Geladeira-Electrolux-Duplex-Efficient-AutoSense/dp/B0CB5DZ4MT",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.599"
                     }
                 ]
             }
@@ -46612,12 +46964,16 @@
             {
                 "id": 148,
                 "name": "FISCHER COOKTOP À GÁS 4 BOCAS TRIPLA CHAMA FIT LINE MESA VIDRO PRETO BIVOLT - 26299-57078",
-                "price": "696",
+                "price": "716",
                 "url": "https://www.amazon.com.br/FISCHER-COOKTOP-BOCAS-VIDRO-BIVOLT/dp/B07GWX8PGP",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "696"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "716"
                     }
                 ]
             },
@@ -46688,7 +47044,7 @@
             {
                 "id": 154,
                 "name": "Electrolux DEPURADOR 59,5CM DE PAREDE INOX (DE60X) 220V",
-                "price": "474",
+                "price": "549",
                 "url": "https://www.amazon.com.br/Depurador-Electrolux-60cm-Parede-DE60X/dp/B076QTWM2S",
                 "price_updates": [
                     {
@@ -46698,6 +47054,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "474"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "549"
                     }
                 ]
             },
@@ -46716,12 +47076,16 @@
             {
                 "id": 156,
                 "name": "Fogão de Mesa Cooktop 4 Bocas Vidro Preto à Gás - SUGGAR - FG4004VP",
-                "price": "350",
+                "price": "389",
                 "url": "https://www.amazon.com.br/Fog%C3%A3o-Cooktop-Bivolt-Fg4004vp-Suggar/dp/B077JDBKYV",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "350"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "389"
                     }
                 ]
             },
@@ -47240,12 +47604,16 @@
             {
                 "id": 198,
                 "name": "Fogão Vitrum 4 Bocas - Inox",
-                "price": "1.109",
+                "price": "1.349",
                 "url": "https://www.amazon.com.br/Fog%C3%A3o-Vitrum-4-Bocas-Inox/dp/B07K27XX15",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "1.109"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.349"
                     }
                 ]
             },
@@ -51186,12 +51554,16 @@
             {
                 "id": 46,
                 "name": "COIFA DE PAREDE FOGATTI VIDRO CURVO DUTO SLIM INOX 75CM 127V",
-                "price": "642",
+                "price": "681",
                 "url": "https://www.amazon.com.br/COIFA-PAREDE-FOGATTI-VIDRO-CURVO/dp/B076JJJJ43",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "642"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "681"
                     }
                 ]
             },
@@ -51606,7 +51978,7 @@
             {
                 "id": 79,
                 "name": "Depurador Vidrio 3 Vel. Preto 90 Cm 220V - SUGGAR - DV92PT",
-                "price": "599",
+                "price": "790",
                 "url": "https://www.amazon.com.br/Depurador-exaustor-Vidrio-preto-Suggar/dp/B07GZ6N9DZ",
                 "price_updates": [
                     {
@@ -51616,6 +51988,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "599"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "790"
                     }
                 ]
             },
@@ -51746,12 +52122,16 @@
             {
                 "id": 90,
                 "name": "Coifa de Parede Fischer Talent TOUCH 60cm vidro Digital 220V",
-                "price": "1.678",
+                "price": "1.559",
                 "url": "https://www.amazon.com.br/Coifa-Parede-Fischer-Talent-Digital/dp/B077TMKWVJ",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "1.678"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.559"
                     }
                 ]
             },
@@ -52378,12 +52758,16 @@
             {
                 "id": 141,
                 "name": "COIFA FOGATTI ILHA RETANGULAR INOX 75 CM 220 V",
-                "price": "1.895",
+                "price": "2.113",
                 "url": "https://www.amazon.com.br/COIFA-FOGATTI-ILHA-RETANGULAR-INOX/dp/B078JL16M3",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "1.895"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.113"
                     }
                 ]
             },
@@ -52838,7 +53222,7 @@
             {
                 "id": 179,
                 "name": "FISCHER COIFA DE PAREDE TALENT CFT060 60 CM INOX/VIDRO 127V - 26028-56454",
-                "price": "1.445",
+                "price": "1.370",
                 "url": "https://www.amazon.com.br/FISCHER-PAREDE-TALENT-CFT060-26028-56454/dp/B07LG8SDXW",
                 "price_updates": [
                     {
@@ -52848,6 +53232,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "1.445"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.370"
                     }
                 ]
             },
@@ -53516,7 +53904,7 @@
             {
                 "id": 21,
                 "name": "Samsung Galaxy A14 4G , Preto , 64GB",
-                "price": "699",
+                "price": "949",
                 "url": "https://www.amazon.com.br/Samsung-Galaxy-A14-Preto-64GB/dp/B0C15JGH63",
                 "price_updates": [
                     {
@@ -53526,18 +53914,26 @@
                     {
                         "date": "02/02/2024",
                         "price": "699"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "949"
                     }
                 ]
             },
             {
                 "id": 22,
                 "name": "Samsung Galaxy A34 256GB 5G Tela 6.6'' Dual Chip 8GB RAM Câmera Tripla de até 48MP + Selfie 13MP Bateria de 5000mAh - Preto",
-                "price": "1.718",
+                "price": "1.619",
                 "url": "https://www.amazon.com.br/Samsung-Galaxy-C%C3%A2mera-Bateria-5000mAh/dp/B0BY3LW7RB",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "1.718"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.619"
                     }
                 ]
             },
@@ -53568,7 +53964,7 @@
             {
                 "id": 25,
                 "name": "Samsung Galaxy S23 5G 256GB Tela 6.1'' 8GB RAM IP68 Processador Qualcomm Snapdragon 8 Gen 2 Câmera Tripla de até 50MP + Selfie 12MP - Preto",
-                "price": "4.299",
+                "price": "3.329",
                 "url": "https://www.amazon.com.br/Samsung-Galaxy-Processador-Qualcomm-Snapdragon/dp/B0BRT4SYBW",
                 "price_updates": [
                     {
@@ -53582,6 +53978,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "4.299"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.329"
                     }
                 ]
             },
@@ -53944,7 +54344,7 @@
             {
                 "id": 54,
                 "name": "Samsung Galaxy Z Flip5 512GB Tela dobrável de 6.7\" Dual Chip 8GB RAM Câm. Dupla até 12MP + Selfie 10MP – Creme",
-                "price": "3.599",
+                "price": "5.299",
                 "url": "https://www.amazon.com.br/Samsung-Galaxy-Flip5-dobr%C3%A1vel-Selfie/dp/B0CCPJ7V7N",
                 "price_updates": [
                     {
@@ -53954,6 +54354,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "3.599"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "5.299"
                     }
                 ]
             },
@@ -54052,7 +54456,7 @@
             {
                 "id": 62,
                 "name": "Samsung Galaxy Z Flip5 512GB Tela dobrável de 6.7\" Dual Chip 8GB RAM Câm. Dupla até 12MP + Selfie 10MP – Verde",
-                "price": "3.599",
+                "price": "5.299",
                 "url": "https://www.amazon.com.br/Samsung-Galaxy-Flip5-dobr%C3%A1vel-Selfie/dp/B0CCPHWLGM",
                 "price_updates": [
                     {
@@ -54062,6 +54466,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "3.599"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "5.299"
                     }
                 ]
             },
@@ -54168,12 +54576,16 @@
             {
                 "id": 71,
                 "name": "Samsung Galaxy S23+ 5G 256GB Tela 6.6'' 8GB RAM IP68 Processador Qualcomm Snapdragon 8 Gen 2 Câmera Tripla de até 50MP + Selfie 12MP - Violeta",
-                "price": "4.999",
+                "price": "4.499",
                 "url": "https://www.amazon.com.br/Samsung-Galaxy-Processador-Qualcomm-Snapdragon/dp/B0BRT5KNP2",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "4.999"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "4.499"
                     }
                 ]
             },
@@ -54748,12 +55160,16 @@
             {
                 "id": 118,
                 "name": "Cabo para samsung Galaxy S10 Original Tipo-C",
-                "price": "44",
+                "price": "34",
                 "url": "https://www.amazon.com.br/Samsung-carregamento-dados-USB-C-Galaxy/dp/B07C6WGFJ6",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "44"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "34"
                     }
                 ]
             },
@@ -54772,12 +55188,16 @@
             {
                 "id": 120,
                 "name": "SAMSUNG EVO Plus com adaptador SD de 256 GB Micro SDXC, até 130 MB/s, armazenamento expandido para dispositivos de jogos, tablets e smartphones Android, cartão de memória, MB-MC256KA/AM, 2021",
-                "price": "209",
+                "price": "196",
                 "url": "https://www.amazon.com.br/SAMSUNG-armazenamento-dispositivos-smartphones-MB-MC256KA/dp/B09TD1TXMH",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "209"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "196"
                     }
                 ]
             },
@@ -54796,12 +55216,16 @@
             {
                 "id": 122,
                 "name": "SAMSUNG EVO Plus com adaptador SD de 512 GB Micro SDXC, até 130 MB/s, armazenamento expandido para dispositivos de jogos, tablets e smartphones Android, cartão de memória, MB-MC512KA/AM, 2021",
-                "price": "363",
+                "price": "364",
                 "url": "https://www.amazon.com.br/SAMSUNG-armazenamento-dispositivos-smartphones-MB-MC512KA/dp/B09PZ9SHTK",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "363"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "364"
                     }
                 ]
             },
@@ -54844,12 +55268,16 @@
             {
                 "id": 126,
                 "name": "SAMSUNG EVO Plus com adaptador SD 64 GB Micro SDXC, até 130 MB/s, armazenamento expandido para dispositivos de jogos, tablets e smartphones Android, cartão de memória, MB-MC64KA/AM, 2021",
-                "price": "75",
+                "price": "71",
                 "url": "https://www.amazon.com.br/SAMSUNG-armazenamento-dispositivos-smartphones-MB-MC64KA/dp/B09THJ25JR",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "75"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "71"
                     }
                 ]
             },
@@ -55212,7 +55640,7 @@
             {
                 "id": 156,
                 "name": "Capa de couro para Samsung Galaxy S22, capa protetora para celular, proteção de lente de câmera, à prova de choque, premium, elegante, design fino, versão dos EUA, preta",
-                "price": "162",
+                "price": "163",
                 "url": "https://www.amazon.com.br/Samsung-protetora-celular-prote%C3%A7%C3%A3o-elegante/dp/B09NB6RL7Q",
                 "price_updates": [
                     {
@@ -55222,6 +55650,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "162"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "163"
                     }
                 ]
             },
@@ -55428,19 +55860,23 @@
             {
                 "id": 173,
                 "name": "Samsung Evo Plus Classe 10 UHS-I microSDXC U3 com adaptador (128GB MB-MC128GA/APC)",
-                "price": "131",
+                "price": "133",
                 "url": "https://www.amazon.com.br/Samsung-microSDXC-adaptador-MB-MC128GA-APC/dp/B07BS3HLY9",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "131"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "133"
                     }
                 ]
             },
             {
                 "id": 174,
                 "name": "Samsung Capa de silicone com alça para Galaxy Z Flip3 da Electronics – Capa oficial – Branca",
-                "price": "211",
+                "price": "210",
                 "url": "https://www.amazon.com.br/Capa-silicone-Samsung-Galaxy-Flip3/dp/B098KGBSTC",
                 "price_updates": [
                     {
@@ -55450,6 +55886,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "211"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "210"
                     }
                 ]
             },
@@ -55588,19 +56028,23 @@
             {
                 "id": 186,
                 "name": "Samsung Cartão Micro SD Memory MB-MC512GA 512 GB Evo Plus com adaptador",
-                "price": "363",
+                "price": "364",
                 "url": "https://www.amazon.com.br/SAMSUNG-Class-Micro-adaptador-MB-MC512GAEU/dp/B07H1231S8",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "363"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "364"
                     }
                 ]
             },
             {
                 "id": 187,
                 "name": "GALAXY TAB A7 LITE WIFI 8.7 32GB - SM- T220",
-                "price": "870",
+                "price": "929",
                 "url": "https://www.amazon.com.br/GALAXY-TAB-LITE-WIFI-32GB/dp/B09G897XCY",
                 "price_updates": [
                     {
@@ -55610,6 +56054,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "870"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "929"
                     }
                 ]
             },
@@ -55728,12 +56176,16 @@
             {
                 "id": 197,
                 "name": "Samsung Cartão de memória móvel Evo Plus 64GB MicroSD XC Class 10 UHS-1 para SAMSUNG Galaxy J3 J1 Nxt Ace A9 A7 A5 A3 Tab A 7.0 E 8.0 View On7 On5 Z3",
-                "price": "75",
+                "price": "71",
                 "url": "https://www.amazon.com.br/Samsung-MicroSD-Cart%C3%A3o-mem%C3%B3ria-Galaxy/dp/B01DAYHOXS",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "75"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "71"
                     }
                 ]
             },
@@ -56260,12 +56712,16 @@
             {
                 "id": 240,
                 "name": "SAMSUNG Cartão de memória 128GB EVO Plus microSDXC UHS-I U3 100MB/s Full HD e 4K UHD com adaptador (MB-MC128GA, 2021)",
-                "price": "131",
+                "price": "133",
                 "url": "https://www.amazon.com.br/SAMSUNG-mem%C3%B3ria-microSDXC-adaptador-MB-MC128GA/dp/B0118LR9Z8",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "131"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "133"
                     }
                 ]
             },
@@ -56320,12 +56776,16 @@
             {
                 "id": 245,
                 "name": "SAMSUNG 128GB EVO Plus Classe 10 Micro SDXC com adaptador (MB-MC128GA)",
-                "price": "131",
+                "price": "133",
                 "url": "https://www.amazon.com.br/SAMSUNG-Classe-Micro-adaptador-MB-MC128GA/dp/B06XFHQGB9",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "131"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "133"
                     }
                 ]
             },
@@ -56456,7 +56916,7 @@
             {
                 "id": 256,
                 "name": "SAMSUNG Capa para celular Galaxy S23+, capa protetora premium com proteção frontal e traseira, aderência macia, versão dos EUA, EF-VS916LBEGUS, preta",
-                "price": "166",
+                "price": "165",
                 "url": "https://www.amazon.com.br/SAMSUNG-protetora-prote%C3%A7%C3%A3o-ader%C3%AAncia-EF-VS916LBEGUS/dp/B0BQ3NX1Y4",
                 "price_updates": [
                     {
@@ -56466,6 +56926,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "166"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "165"
                     }
                 ]
             },
@@ -56848,12 +57312,16 @@
             {
                 "id": 288,
                 "name": "SAMSUNG Adaptador + microSD EVO Plus 512 GB (MB-MC512HA/EU)",
-                "price": "363",
+                "price": "364",
                 "url": "https://www.amazon.com.br/SAMSUNG-microSD-adaptador-MB-MC512HA-EU/dp/B089S23BVG",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "363"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "364"
                     }
                 ]
             },
@@ -57004,12 +57472,16 @@
             {
                 "id": 301,
                 "name": "Samsung MUF-64AB/AM FIT Plus 64 GB - USB 3.1 Flash Drive",
-                "price": "126",
+                "price": "149",
                 "url": "https://www.amazon.com.br/Pendrive-USB-3-1-Samsung-MUF-64AB/dp/B07D7P4SY4",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "126"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "149"
                     }
                 ]
             },
@@ -57540,7 +58012,7 @@
             {
                 "id": 344,
                 "name": "SAMSUNG Adaptador de conector de fone de ouvido EE-UC10JUWEGUS USB-C para 3,5 mm para Note10 e Note10+, Branco",
-                "price": "145",
+                "price": "147",
                 "url": "https://www.amazon.com.br/SAMSUNG-Adaptador-conector-ouvido-EE-UC10JUWEGUS/dp/B07VF6NSZZ",
                 "price_updates": [
                     {
@@ -57558,6 +58030,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "145"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "147"
                     }
                 ]
             },
@@ -57812,12 +58288,16 @@
             {
                 "id": 365,
                 "name": "SAMSUNG Galaxy Buds 2 True Wireless Earbuds Cancelamento de ruído som ambiente Bluetooth leve ajuste confortável controle de toque versão EUA, verde-oliva",
-                "price": "1.073",
+                "price": "1.076",
                 "url": "https://www.amazon.com.br/SAMSUNG-Wireless-cancelamento-Bluetooth-verde-oliva/dp/B0941PVLYN",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "1.073"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.076"
                     }
                 ]
             },
@@ -57916,6 +58396,18 @@
                         "price": "359"
                     }
                 ]
+            },
+            {
+                "id": "f5f6c701-c51d-414e-b457-0767ab337557",
+                "name": "Samsung Galaxy M53 128GB 5G Wi-Fi Tela 6.7'' Dual Chip 8GB RAM Câmera Quádrupla + Selfie 32MP Bateria de 5000mAh - Verde",
+                "price": "2.999",
+                "url": "https://www.amazon.com.br/Samsung-Galaxy-Qu%C3%A1drupla-Bateria-5000mAh/dp/B0BRQPJLFV",
+                "price_updates": [
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.999"
+                    }
+                ]
             }
         ]
     },
@@ -57982,12 +58474,16 @@
             {
                 "id": 4,
                 "name": "HEADSET GAMER HYPERX CLOUD STINGER 2 CORE PC PRETO",
-                "price": "232",
+                "price": "225",
                 "url": "https://www.amazon.com.br/HEADSET-GAMER-HYPERX-CLOUD-STINGER/dp/B0BCFKG49M",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "232"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "225"
                     }
                 ]
             },
@@ -58454,12 +58950,16 @@
             {
                 "id": 42,
                 "name": "Fone de Ouvido Headphone RGB Gamer Havit H2015BG Wireless 2.4G Sem Fio, Bluetooth e Cabo 3,5mm, com Microfone Destacável, Falantes de 50mm, Headband Suspenso Regulável, Cor: Preto, Tamanho: Médio",
-                "price": "229",
+                "price": "359",
                 "url": "https://www.amazon.com.br/Headphone-H2015BG-Bluetooth-Microfone-Destac%C3%A1vel/dp/B0C1KS1MBK",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "229"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "359"
                     }
                 ]
             },
@@ -58530,7 +59030,7 @@
             {
                 "id": 48,
                 "name": "Headset Gamer Logitech G432 7.1 Dolby Surround para PC, PlayStation, Xbox e Nintendo Switch - Preto/Azul",
-                "price": "399",
+                "price": "338",
                 "url": "https://www.amazon.com.br/Headset-Logitech-Surround-PlayStation-Nintendo/dp/B07MRMHML9",
                 "price_updates": [
                     {
@@ -58540,6 +59040,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "399"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "338"
                     }
                 ]
             },
@@ -58634,12 +59138,16 @@
             {
                 "id": 56,
                 "name": "JBL, Headset Gamer, Quantum 400 - Preto",
-                "price": "378",
+                "price": "444",
                 "url": "https://www.amazon.com.br/Ouvido-JBL-Quantum-Preto-M%C3%A9dio/dp/B083X25B6K",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "378"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "444"
                     }
                 ]
             },
@@ -58854,12 +59362,16 @@
             {
                 "id": 73,
                 "name": "Headset Gamer Razer Kraken Multi Platform Green P2, Verde, RZ.AU.KR.03.RT",
-                "price": "703",
+                "price": "702",
                 "url": "https://www.amazon.com.br/Headset-Razer-Kraken-Platform-RZ-AU-KR-03-RT/dp/B07SD7KDF2",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "703"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "702"
                     }
                 ]
             },
@@ -59566,12 +60078,16 @@
             {
                 "id": 129,
                 "name": "JBL, Headset Gamer, Quantum 300 - Preto",
-                "price": "354",
+                "price": "470",
                 "url": "https://www.amazon.com.br/Headset-Gamer-JBL-Quantum-300/dp/B083X3LTHH",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "354"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "470"
                     }
                 ]
             },
@@ -59946,12 +60462,16 @@
             {
                 "id": 160,
                 "name": "Headset Gamer Sem Fio Logitech G735 LIGHTSPEED Com RGB LIGHTSYNC, Microfone Destacável, Tecnologia BLUE VO!CE, Bateria Recarregável, Conexão Bluetooth, Compatível Com PC, Android, iOS",
-                "price": "1.385",
+                "price": "1.379",
                 "url": "https://www.amazon.com.br/Logitech-G735-LIGHTSPEED-Destac%C3%A1vel-Recarreg%C3%A1vel/dp/B08VFCH2HS",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "1.385"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "1.379"
                     }
                 ]
             },
@@ -60174,7 +60694,7 @@
             {
                 "id": 179,
                 "name": "Headset Gamer XZONE, Com Suporte - GHS-01",
-                "price": "153",
+                "price": "149",
                 "url": "https://www.amazon.com.br/Headset-Gamer-com-Suporte-GHS-01/dp/B081BG7CCN",
                 "price_updates": [
                     {
@@ -60184,6 +60704,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "153"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "149"
                     }
                 ]
             },
@@ -60970,7 +61494,7 @@
             {
                 "id": 243,
                 "name": "Headset gamer AOC GH210",
-                "price": "238",
+                "price": "229",
                 "url": "https://www.amazon.com.br/AOC-GH210-Headset-gamer/dp/B09BP4RR9S",
                 "price_updates": [
                     {
@@ -60980,6 +61504,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "238"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "229"
                     }
                 ]
             },
@@ -61406,12 +61934,16 @@
             {
                 "id": 278,
                 "name": "Headset Gamer Warrior Kaden USB 2.0 Stereo LED RGB - PH301",
-                "price": "179",
+                "price": "204",
                 "url": "https://www.amazon.com.br/Headset-Gamer-Warrior-Kaden-Stereo/dp/B082XJ5M68",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "179"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "204"
                     }
                 ]
             },
@@ -61442,12 +61974,16 @@
             {
                 "id": 281,
                 "name": "Fone Com Microfone Usb Preto Microsoft - JUG00013",
-                "price": "134",
+                "price": "171",
                 "url": "https://www.amazon.com.br/Fone-Com-Microfone-Preto-Microsoft/dp/B00906E03I",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "134"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "171"
                     }
                 ]
             },
@@ -61466,12 +62002,16 @@
             {
                 "id": 283,
                 "name": "Headset Sem Fio Logitech Zone Vibe 100 Com Microfone Flip- to-Mute Com Cancelamento de Ruído, Conexão Bluetooth, Até 20h de Bateria, Design Leve e Confortável - Rosa",
-                "price": "559",
+                "price": "569",
                 "url": "https://www.amazon.com.br/LOGITECH-ZONE-VIBE-100-ROSE/dp/B0B8BKV6LM",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "559"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "569"
                     }
                 ]
             },
@@ -61666,12 +62206,16 @@
             {
                 "id": 299,
                 "name": "Headset Gamer Logitech G635 7.1 Dolby Surround com RGB LIGHTSYNC e Drivers de Áudio Avançados para PC, PlayStation, Xbox e Nintendo Switch",
-                "price": "970",
+                "price": "825",
                 "url": "https://www.amazon.com.br/Fone-Ouvido-Jogos-Surround-Logitech/dp/B07MH94CL5",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "970"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "825"
                     }
                 ]
             },
@@ -61954,12 +62498,16 @@
             {
                 "id": 323,
                 "name": "Headset gamer storm 7.1 virtual channel com microfone - linha gamer flakes power, Preto",
-                "price": "129",
+                "price": "255",
                 "url": "https://www.amazon.com.br/Headset-gamer-virtual-channel-microfone/dp/B07CZLWC52",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "129"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "255"
                     }
                 ]
             },
@@ -62050,12 +62598,16 @@
             {
                 "id": 331,
                 "name": "Fone de Ouvido KZ EDX Pro com Microfone - Preto",
-                "price": "44",
+                "price": "42",
                 "url": "https://www.amazon.com.br/Fone-Ouvido-EDX-Pro-Microfone/dp/B09N98WCL1",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "44"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "42"
                     }
                 ]
             },
@@ -63210,7 +63762,7 @@
             {
                 "id": 426,
                 "name": "JBL, Fone de Ouvido Sem Fio, Bluetooth, Wave Buds TWS - Preto",
-                "price": "262",
+                "price": "257",
                 "url": "https://www.amazon.com.br/Fones-ouvido-JBL-Wave-Buds/dp/B0BHDMHHM9",
                 "price_updates": [
                     {
@@ -63220,6 +63772,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "262"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "257"
                     }
                 ]
             },
@@ -63814,7 +64370,7 @@
             {
                 "id": 475,
                 "name": "C3Tech Headset Gamer PH-G330BKV2 HARRIER Preto USB Com microfone Omnidirecional Audio Stereo Acoplamento Circumaural (OVER-EAR) com Iluminacao multicores Auto-falante 50mm",
-                "price": "189",
+                "price": "198",
                 "url": "https://www.amazon.com.br/Headset-C3Tech-Gaming-HARRIER-PH-G330BKV2/dp/B08J8H5YWH",
                 "price_updates": [
                     {
@@ -63824,6 +64380,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "189"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "198"
                     }
                 ]
             },
@@ -64614,12 +65174,16 @@
             {
                 "id": 540,
                 "name": "HyperX CloudX Stinger Core W",
-                "price": "964",
+                "price": "963",
                 "url": "https://www.amazon.com.br/HyperX-CloudX-Stinger-Core-W/dp/B098TV8C93",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "964"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "963"
                     }
                 ]
             },
@@ -64822,12 +65386,16 @@
             {
                 "id": 557,
                 "name": "Fone Orelhas GATO Sem Fio COM LED Bluetooth Música Infantil COLORIDO GATINHO HEADSET HEADPHONE CRIANÇA LED MUDA DE COR GAMER (LILÁS)",
-                "price": "55",
+                "price": "49",
                 "url": "https://www.amazon.com.br/Orelhas-Bluetooth-Infantil-COLORIDO-HEADPHONE/dp/B0CGGKMSCM",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "55"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "49"
                     }
                 ]
             },
@@ -65410,12 +65978,16 @@
             {
                 "id": 604,
                 "name": "JBL, Fone de Ouvido Over-Ear, Tune 720BT, Bluetooth, Cabo Removível - Branco",
-                "price": "306",
+                "price": "303",
                 "url": "https://www.amazon.com.br/JBL-Fone-Ouvido-Over-720BT/dp/B0BYWL962Q",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "306"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "303"
                     }
                 ]
             },
@@ -65986,12 +66558,16 @@
             {
                 "id": 651,
                 "name": "AOC - Headphone Bluetooth Luccas Neto Aventureiro Azul LN001BL/00 com adesivos para personalizar seu fone!",
-                "price": "149",
+                "price": "129",
                 "url": "https://www.amazon.com.br/AOC-Headphone-Bluetooth-Aventureiro-personalizar/dp/B0CMQZR4JT",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "149"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "129"
                     }
                 ]
             },
@@ -66034,12 +66610,16 @@
             {
                 "id": 655,
                 "name": "Razer Kaira X Wired Headset for Xbox Series X|S, Xbox One, PC, Mac & Mobile Devices: TriForce 50mm Drivers - HyperClear Cardioid Mic - Memory Foam Ear Cushions - On-Headset Controls - Electric Volt",
-                "price": "641",
+                "price": "638",
                 "url": "https://www.amazon.com.br/Razer-Headset-Mobile-Devices-Headset/dp/B09DHLJVY5",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "641"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "638"
                     }
                 ]
             },
@@ -66206,7 +66786,7 @@
             {
                 "id": 669,
                 "name": "JBL, Fone de Ouvido, Tune 500 - Preto",
-                "price": "130",
+                "price": "107",
                 "url": "https://www.amazon.com.br/Fone-Ouvido-Tune-JBL-Preto/dp/B07HGTXF95",
                 "price_updates": [
                     {
@@ -66216,6 +66796,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "130"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "107"
                     }
                 ]
             },
@@ -67158,12 +67742,16 @@
             {
                 "id": 745,
                 "name": "Motorola, Moto XT 120, Fone de Ouvido som HD e Microfone, Branco",
-                "price": "79",
+                "price": "158",
                 "url": "https://www.amazon.com.br/Motorola-Moto-XT-120-Microfone/dp/B09JXK14D5",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "79"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "158"
                     }
                 ]
             },
@@ -68362,12 +68950,16 @@
             {
                 "id": 842,
                 "name": "Ugreen divisor de fone de ouvido para computador 3,5 mm fêmea para 2 duplos 3,5 mm macho fone de ouvido microfone áudio Y divisor cabo fone fone fone fone de ouvido para PC adaptador (preto)",
-                "price": "50",
+                "price": "48",
                 "url": "https://www.amazon.com.br/Ugreen-divisor-computador-microfone-adaptador/dp/B073ZDDTH2",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "50"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "48"
                     }
                 ]
             },
@@ -68530,7 +69122,7 @@
             {
                 "id": 855,
                 "name": "Fone De Ouvido Sound Beats I2GO Intra-Auricular Com Microfone E Acabamento Em Metal 1,2m 103db Preto",
-                "price": "34",
+                "price": "56",
                 "url": "https://www.amazon.com.br/Ouvido-I2GO-Intra-Auricular-Microfone-Acabamento/dp/B086YMKXVS",
                 "price_updates": [
                     {
@@ -68540,6 +69132,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "34"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "56"
                     }
                 ]
             },
@@ -68606,12 +69202,16 @@
             {
                 "id": 861,
                 "name": "Fone De Ouvido Bluetooth 5.0 Bateria Longa Duração Sem Fio",
-                "price": "22",
+                "price": "29",
                 "url": "https://www.amazon.com.br/Ouvido-Bluetooth-Bateria-Longa-Dura%C3%A7%C3%A3o/dp/B0BQLNDV3X",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "22"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "29"
                     }
                 ]
             },
@@ -69310,12 +69910,16 @@
             {
                 "id": 917,
                 "name": "Fone de ouvido de jogos para Xbox One PS4 PS5 PC, fones de ouvido com cancelamento de ruído com microfone, tomada de áudio de 3,5 mm, faixa de cabeça de ajuste automático, drivers de 50 mm, luz RGB, fones de ouvido de jogos leves com fio preto",
-                "price": "509",
+                "price": "506",
                 "url": "https://www.amazon.com.br/ouvido-cancelamento-microfone-autom%C3%A1tico-drivers/dp/B0B1GVQFRH",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "509"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "506"
                     }
                 ]
             },
@@ -70482,7 +71086,7 @@
             {
                 "id": 1013,
                 "name": "PC Gamer Completo Intel Core i3 10ª Geração, 16GB RAM DDR4, SSD 512GB, RX 550 4GB, Gabinete com LED, Monitor 18,5\", WiFi, Headset, Teclado e Mouse GAMER",
-                "price": "3.299",
+                "price": "3.266",
                 "url": "https://www.amazon.com.br/Completo-Gera%C3%A7%C3%A3o-Gabinete-Monitor-Headset/dp/B09154BLCH",
                 "price_updates": [
                     {
@@ -70492,6 +71096,10 @@
                     {
                         "date": "02/02/2024",
                         "price": "3.299"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "3.266"
                     }
                 ]
             },
@@ -71310,12 +71918,16 @@
             {
                 "id": 1079,
                 "name": "Fone de Ouvido JBL, Headphone Bluetooth, Tune 720BT (Branco)",
-                "price": "369",
+                "price": "289",
                 "url": "https://www.amazon.com.br/Ouvido-JBL-Headphone-Bluetooth-Branco/dp/B0CG83YQK7",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "369"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "289"
                     }
                 ]
             },
@@ -71590,12 +72202,16 @@
             {
                 "id": 1102,
                 "name": "Fone de Ouvido - Sony WF-1000XM4 - Bluetooth - Cancelamento de Ruído - IPX4 (Preto)",
-                "price": "2.092",
+                "price": "2.098",
                 "url": "https://www.amazon.com.br/Fone-Ouvido-WF-1000XM4-Bluetooth-Cancelamento/dp/B096LYGPDB",
                 "price_updates": [
                     {
                         "date": "02/02/2024",
                         "price": "2.092"
+                    },
+                    {
+                        "date": "02/02/2024",
+                        "price": "2.098"
                     }
                 ]
             },
