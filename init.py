@@ -20,4 +20,3 @@ try:
     main()
 except Exception as e:
     print(f'ALGUM ERRO OCORREU NO SCRAPING DA TERABYTE: {e}')
-

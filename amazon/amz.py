@@ -4,32 +4,44 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
 import uuid
+import requests
+from telegram import Bot
+from telegram.constants import ParseMode
 
+bot_token = '6258576123:AAF8IBLPcOsBlEatsD5-RElTfoLiJLBvVm0'
+chat_id = '5980301890'
 
 
 def generate_random_id():
     return str(uuid.uuid4())
 
-def create_items():
-    url = "https://www.amazon.com.br/s?k=ps5&i=videogames&rh=n%3A7791985011%2Cp_89%3APlayStation%2Cp_n_condition-type%3A13862762011&dc&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2W0RK2D2RX4ID&qid=1703759679&rnid=13862761011&sprefix=ps%2Caps%2C170&ref=sr_pg_1"
+def create_items(url, name):
+    url = url
 
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
 
     driver = webdriver.Chrome(options=chrome_options)
     driver.get(url)
-    time.sleep(2)
-    driver.refresh()
-    time.sleep(2)
+    time.sleep(1)
+    error = None
+    max_attempts = 10
 
-    try:
-        title = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div/div/div[1]/div/div/div[1]/h1').text
-    except:
-        title = driver.find_element(By.CSS_SELECTOR, 'span .a-color-state.a-text-bold').text
+    for attempt in range(max_attempts):
+        try:
+            error = driver.find_element(By.XPATH, '//*[@id="h"]/div/a/img').text
+        except:
+            break
+
+        driver.refresh()
+        time.sleep(2)
+
+    title = name
+
 
     # Carregar dados existentes do arquivo JSON
     try:
-        with open("amazon.json", "r", encoding='utf-8') as json_file:
+        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "r", encoding='utf-8') as json_file:
             existing_data = json.load(json_file)
     except FileNotFoundError:
         # Se o arquivo não existir, inicialize com uma lista vazia
@@ -84,7 +96,7 @@ def create_items():
                 pass
 
         # Salve os dados atualizados no arquivo JSON
-        with open("amazon.json", "w", encoding='utf-8') as json_file:
+        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
         try:
@@ -110,13 +122,9 @@ def verif_items():
     urls_json = []
     urls_now = []
     try:
-        with open("amazon.json", "r", encoding='utf-8') as json_file:
+        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "r", encoding='utf-8') as json_file:
             existing_data = json.load(json_file)
-            for product in existing_data:
-                for pdr in product.get('products', []):
-                    url = pdr.get('url')
-                    if url:
-                        urls_json.append(url)
+
     except FileNotFoundError:
         print("Arquivo JSON não encontrado.")
 
@@ -128,10 +136,23 @@ def verif_items():
 
     itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
 
+    error = None
+    max_attempts = 10
+
     for product in existing_data:
+        for item in product['products']:
+            urls_json.append(item['url'])
+        print(product['file_name'])
         driver.get(product['url'])
-        time.sleep(5)
-        driver.refresh()
+        for attempt in range(max_attempts):
+            try:
+                error = driver.find_element(By.XPATH, '//*[@id="h"]/div/a/img').text
+            except:
+                break
+
+            driver.refresh()
+            time.sleep(2)
+
         time.sleep(1)
         while True:
             itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
@@ -158,8 +179,7 @@ def verif_items():
                                         "price": f"{price_item}"
                                     }
                                     pdr['price_updates'].append(update_entry)
-
-                                    with open("amazon.json", "w", encoding='utf-8') as json_file:
+                                    with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "w", encoding='utf-8') as json_file:
                                         json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
                                 else:
                                     pass
@@ -185,32 +205,11 @@ def verif_items():
                     # Indo para próxima pag
                     next_btn = driver.find_element(By.CSS_SELECTOR, ".s-pagination-next")
                     next_btn.click()
-                    time.sleep(5)
+                    time.sleep(3)
             except:
                 break
 
-        with open("amazon.json", "w", encoding='utf-8') as json_file:
+        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
     driver.quit()
-
-# url_new = []
-#
-# def new_items():
-#     with open("amazon.json", "r", encoding='utf-8') as json_file:
-#         existing_data = json.load(json_file)
-#         for product in existing_data:
-#             for pdr in product.get('products', []):
-#                 url = pdr.get('url')
-#                 if url:
-#                     url_new.append(url)
-#
-#     for it in url_new:
-#         print(it)
-#
-#
-#
-#
-# new_items()
-
-verif_items()

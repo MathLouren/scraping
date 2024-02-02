@@ -2,21 +2,74 @@
 
 {% block content %}
     <section style="display:flex; justify-content:center; align-items:center; flex-direction:column; padding:0px 7px;">
-        <h1 style="font-size:2.4rem;">Escolha o produto para ficar de 👀</h1>
-        <form method="post" style="display:flex; justify-content: center; align-items:center; flex-direction:column;">
-            <input name="link_produto" type="text" placeholder="Insira o link do produto aqui" style="padding: 9px 10px; width:700px; max-width:100%;">
-            <button type="submit" style="display:block; margin:30px 0px; padding:7px 25px; cursor:pointer; font-size:1.1rem;">Salvar</button>
+        <h1 style="font-size:2.4rem;">Procure seu produto aqui 🔎</h1>
+        <form method="post" id="search-form" style="position: relative; display:flex; justify-content: center; align-items:center; flex-direction:column;">
+            <input id="input_link" name="link_produto" type="text" placeholder="Insira o link do produto aqui" style="padding: 13px 10px; width:700px; max-width:100%;" {% if product_not_found %}class="error-input"{% endif %}>
+            <div id="error-message" {% if product_not_found %}class="show_message"{% endif %}>
+                <span>Produto não encontrado</span>
+            </div>
+            <button type="submit" style="display:block; margin:40px 0px 30px 0; padding:7px 25px; cursor:pointer; font-size:1.1rem;">Procurar</button>
         </form>
     </section>
-    <ul style="font-size:1.5rem; display:flex; gap:30px;">
-        <li>
-            <a href="/terabyte">Terabyte</a>
-        </li>
+    <button class="btn"><a href="/product_cheap" style="color:#fff;">Ver Produtos Baratos</a></button>
+    <button class="btn"><a href="/create" style="color:#fff;">Adicionar novos Produtos</a></button>
+    <button class="btn"><a href="/update" style="color:#fff;">Atualizar Preços</a></button>
+    <ul style="font-size:2rem; display:flex; gap:40px;">
         <li>
             <a href="/amazon">Amazon</a>
+        </li>
+        <li>
+            <a href="/terabyte">Terabyte</a>
         </li>
         <li>
             <a href="/kabum">Kabum</a>
         </li>
     </ul>
+
+    <style>
+
+        .btn{
+            padding: 15px 25px;
+            background-color: #6e6e6e;
+            font-size: 1.3rem;
+            margin: 15px 0;
+            border:none;
+        }
+
+        .error-input{
+            border: 1px solid red;
+        }
+
+        #error-message{
+            display:none;
+            position:absolute;
+            top:39px;
+            color: red;
+            margin:10px 0;
+        }
+
+        .show_message{
+            display:block !important;
+        }
+    </style>
+
+<script>
+
+    if (document.getElementById('error-message').classList.contains('show_message')) {
+        // Define um temporizador para remover a classe após 3 segundos
+        setTimeout(function() {
+            document.getElementById('error-message').classList.remove('show_message');
+        }, 3000);  // 3000 milissegundos = 3 segundos
+    }
+
+    if (document.getElementById('input_link').classList.contains('error-input')) {
+        // Define um temporizador para remover a classe após 3 segundos
+        setTimeout(function() {
+            document.getElementById('input_link').classList.remove('error-input');
+        }, 3000);  // 3000 milissegundos = 3 segundos
+    }
+
+</script>
+
+
 {% endblock %}

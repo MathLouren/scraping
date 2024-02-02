@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <section style="width:100%; max-width:1700px; padding:0 20px;">
+        <form action="{{ url_for('create') }}" method="POST" onsubmit="return validateForm()" style="width:100%; max-width:1500px; display:flex; justify-content: center; align-items:center; flex-direction:column; gap:20px; padding:0 5px;">
+            <h1>Monitorar Preço</h1>
+            <input type="text" name="products_url" id="products_url" style="width:100%; max-width:1000px; padding: 10px 7px;" placeholder="Insira o Link do produto aqui">
+            <input type="text" name="name" id="name" placeholder="Nome do Produto" style="width:100%; max-width:1000px; padding: 10px 7px;">
+            <button style="width:200px; padding: 10px 7px;" type="submit">Salvar</button>
+        </form>
+
+        <script>
+            function validateForm() {
+                // Obtém os valores dos campos
+                var productsUrl = document.getElementById("products_url").value;
+                var name = document.getElementById("name").value;
+
+                // Verifica se ambos os campos estão preenchidos
+                if (productsUrl.trim() === "" || name.trim() === "") {
+                    alert("Por favor, preencha ambos os campos antes de salvar.");
+                    return false; // Impede o envio do formulário
+                }
+
+                // Continue com o envio do formulário se os campos estiverem preenchidos
+                return true;
+            }
+        </script>
+    </section>
+
+{% endblock %}

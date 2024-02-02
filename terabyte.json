@@ -86,7 +86,7 @@
       {
         "id": 3,
         "name": "Placa de Vídeo INNO3D GeForce RTX 3060 TWIN X2, 12GB, GDDR6, DLSS, Ray Tracing, N30602-12D6-119032AH",
-        "price": "R$ 1.759,00",
+        "price": "R$ 1.999,00",
         "url": "https://www.terabyteshop.com.br/produto/21631/placa-de-video-inno3d-geforce-rtx-3060-twin-x2-12gb-gddr6-dlss-ray-tracing-n30602-12d6-119032ah",
         "price_updates": [
           {
@@ -108,6 +108,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 1.759,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 1.999,00"
           }
         ]
       },
@@ -818,7 +822,7 @@
       {
         "id": 16,
         "name": "Placa de Vídeo INNO3D NVIDIA GeForce RTX 4060 Ti ICHILL X3, 8GB, GDDR6, DLSS, Ray Tracing, C406T3-08D6X-17113389",
-        "price": "R$ 3.299,00",
+        "price": "R$ 2.997,99",
         "url": "https://www.terabyteshop.com.br/produto/25581/placa-de-video-inno3d-nvidia-geforce-rtx-4060-ti-ichill-x3-8gb-gddr6-dlss-ray-tracing-c406t3-08d6x-17113389",
         "price_updates": [
           {
@@ -856,6 +860,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 3.299,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.997,99"
           }
         ]
       },
@@ -990,7 +998,7 @@
       {
         "id": 19,
         "name": "Placa De Vídeo Duex NVIDIA GeForce GT730LP, 2GB, DDR3, 64bit, DX GT730LP-2GD3-S",
-        "price": "R$ 239,90",
+        "price": "R$ 247,99",
         "url": "https://www.terabyteshop.com.br/produto/25443/placa-de-video-duex-nvidia-geforce-gt730lp-2gb-ddr3-64bit-dx-gt730lp-2gd3-s",
         "price_updates": [
           {
@@ -1040,6 +1048,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 239,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 247,99"
           }
         ]
       },
@@ -1238,7 +1250,7 @@
       {
         "id": 23,
         "name": "Placa de Vídeo Duex NVIDIA GeForce GTX 1060 Low Profile, 3GB, GDDR5, 192Bits, GTX1060-3GD5",
-        "price": "R$ 899,90",
+        "price": "R$ 799,90",
         "url": "https://www.terabyteshop.com.br/produto/25433/placa-de-video-duex-nvidia-geforce-gtx-1060-low-profile-3gb-gddr5-192bits-gtx1060-3gd5",
         "price_updates": [
           {
@@ -1268,6 +1280,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 899,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 799,90"
           }
         ]
       },
@@ -1570,7 +1586,7 @@
       {
         "id": 30,
         "name": "Placa de Vídeo INNO3D NVIDIA GeForce GT730, 2GB, SDDR3, 64Bit, N730-1SDV-E3BX",
-        "price": "R$ 349,99",
+        "price": "R$ 319,00",
         "url": "https://www.terabyteshop.com.br/produto/24570/placa-de-video-inno3d-nvidia-geforce-gt730-2gb-sddr3-64bit-n730-1sdv-e3bx",
         "price_updates": [
           {
@@ -1600,13 +1616,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 349,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 319,00"
           }
         ]
       },
       {
         "id": 31,
         "name": "Placa de Vídeo INNO3D NVIDIA GeForce GT730, 1GB, SDDR3, 64Bit, N730-1SDV-D3BX",
-        "price": "R$ 329,00",
+        "price": "R$ 299,90",
         "url": "https://www.terabyteshop.com.br/produto/24573/placa-de-video-inno3d-nvidia-geforce-gt730-1gb-sddr3-64bit-n730-1sdv-d3bx",
         "price_updates": [
           {
@@ -1640,13 +1660,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 329,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 299,90"
           }
         ]
       },
       {
         "id": 32,
         "name": "Placa de Vídeo INNO3D NVIDIA GeForce GT 1030, 2GB, GDDR5, 64Bit, N1030-1SDV-E5BL",
-        "price": "R$ 429,90",
+        "price": "R$ 389,90",
         "url": "https://www.terabyteshop.com.br/produto/24576/placa-de-video-inno3d-nvidia-geforce-gt-1030-2gb-gddr5-64bit-n1030-1sdv-e5bl",
         "price_updates": [
           {
@@ -1684,13 +1708,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 429,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 389,90"
           }
         ]
       },
       {
         "id": 33,
         "name": "Placa de Vídeo INNO3D NVIDIA GeForce GT 730, 4GB, SDDR3, 64Bit, N73P-BSDV-M5BX",
-        "price": "R$ 439,00",
+        "price": "R$ 399,00",
         "url": "https://www.terabyteshop.com.br/produto/24578/placa-de-video-inno3d-nvidia-geforce-gt-730-4gb-sddr3-64bit-n73p-bsdv-m3bx",
         "price_updates": [
           {
@@ -1732,6 +1760,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 439,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 399,00"
           }
         ]
       },
@@ -2126,7 +2158,7 @@
       {
         "id": 40,
         "name": "Placa de Vídeo Palit, GeForce, GT 1030, 2G, GDDR4, 64 bit, NEC103000646-1082F",
-        "price": "R$ 518,99",
+        "price": "R$ 479,00",
         "url": "https://www.terabyteshop.com.br/produto/19409/placa-de-video-palit-geforce-gt-1030-2g-gddr4-64-bit-nec103000646-1082f",
         "price_updates": [
           {
@@ -2156,6 +2188,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 518,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 479,00"
           }
         ]
       },
@@ -2322,7 +2358,7 @@
       {
         "id": 44,
         "name": "Placa de Vídeo Galax NVIDIA GeForce GT 1030, 2GB, GDDR5, PCI-EXP, 30NPH4HVQ4ST",
-        "price": "R$ 599,00",
+        "price": "R$ 499,00",
         "url": "https://www.terabyteshop.com.br/produto/8309/placa-de-video-galax-geforce-gtx-gt-1030-2gb-30nph4hvq4st-gddr5-pci-exp",
         "price_updates": [
           {
@@ -2356,6 +2392,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 599,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 499,00"
           }
         ]
       }
@@ -4150,7 +4190,7 @@
       {
         "id": 3,
         "name": "Processador Intel Core i3 10100 3.6GHz + Cooler Redragon Tyr",
-        "price": "R$ 918,00",
+        "price": "R$ 759,90",
         "url": "https://www.terabyteshop.com.br/produto/20113/intel-i3-10100-redragon-tyr",
         "price_updates": [
           {
@@ -4180,13 +4220,21 @@
           {
             "date": "31/12/2023",
             "price": "R$ 918,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 938,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 759,90"
           }
         ]
       },
       {
         "id": 4,
         "name": "Processador AMD Ryzen 5 4500 3.6GHz (4.1GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, 100-100000644BOX",
-        "price": "R$ 0000",
+        "price": "R$ 487,99",
         "url": "https://www.terabyteshop.com.br/produto/21277/processador-amd-ryzen-5-4500-36ghz-41ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-100-100000644box",
         "price_updates": [
           {
@@ -4212,13 +4260,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 487,99"
           }
         ]
       },
       {
         "id": 5,
         "name": "Processador AMD Ryzen 7 5700G 3.8GHz (4.6GHz Turbo), 8-Cores 16-Threads, Cooler Wraith Stealth, AM4, Com vídeo integrado, 100-100000263BOX",
-        "price": "R$ 1.077,99",
+        "price": "R$ 1.497,99",
         "url": "https://www.terabyteshop.com.br/produto/18973/processador-amd-ryzen-7-5700g-38ghz-46ghz-turbo-8-cores-16-threads-cooler-wraith-stealth-am4-com-video-integrado-100-100000263box",
         "price_updates": [
           {
@@ -4228,49 +4280,65 @@
           {
             "date": "21/12/2023",
             "price": "R$ 1.077,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.497,99"
           }
         ]
       },
       {
         "id": 6,
         "name": "Processador AMD Ryzen 5 5600X 3.7GHz (4.6GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, 100-100000065BOX",
-        "price": "R$ 1.038,99",
+        "price": "R$ 1.199,99",
         "url": "https://www.terabyteshop.com.br/produto/15692/processador-amd-ryzen-5-5600x-37ghz-46ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.038,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.199,99"
           }
         ]
       },
       {
         "id": 7,
         "name": "Processador Intel Core i5 10400F 2.90GHz (4.30GHz Turbo), 10ª Geração, 6-Cores 12-Threads, LGA 1200, BX8070110400F",
-        "price": "R$ 607,99",
+        "price": "R$ 679,00",
         "url": "https://www.terabyteshop.com.br/produto/13676/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-bx8070110400f",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 607,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 679,00"
           }
         ]
       },
       {
         "id": 8,
         "name": "Processador AMD Ryzen 9 5900X 3.7GHz (4.8GHz Turbo), 12-Cores 24-Threads, AM4, Sem Cooler",
-        "price": "R$ 1.998,99",
+        "price": "R$ 2.327,99",
         "url": "https://www.terabyteshop.com.br/produto/15696/processador-amd-ryzen-9-5900x-37ghz-48ghz-turbo-12-cores-24-threads-am4-sem-cooler",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.998,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.327,99"
           }
         ]
       },
       {
         "id": 9,
         "name": "Processador AMD Ryzen 7 5800X3D 3.4GHz (4.5GHz Turbo), 8-Cores 16-Threads, AM4, Sem Cooler, Sem vídeo",
-        "price": "R$ 0000",
+        "price": "R$ 2.297,99",
         "url": "https://www.terabyteshop.com.br/produto/20792/processador-amd-ryzen-7-5800x3d-34ghz-45ghz-turbo-8-cores-16-threads-am4-sem-cooler-sem-video",
         "price_updates": [
           {
@@ -4288,6 +4356,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.297,99"
           }
         ]
       },
@@ -4350,7 +4422,7 @@
       {
         "id": 13,
         "name": "Processador Intel Core i5 10400, 2.90GHz, (4.30GHz Turbo), 10ª Geração, 6-Cores 12-Threads, LGA 1200, BX8070110400",
-        "price": "R$ 0000",
+        "price": "R$ 819,00",
         "url": "https://www.terabyteshop.com.br/produto/13445/processador-intel-core-i5-10400-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-bx8070110400",
         "price_updates": [
           {
@@ -4372,6 +4444,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 819,00"
           }
         ]
       },
@@ -4399,6 +4475,14 @@
           },
           {
             "date": "21/12/2023",
+            "price": "R$ 435,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 369,00"
+          },
+          {
+            "date": "29/01/2024",
             "price": "R$ 435,99"
           }
         ]
@@ -4430,36 +4514,48 @@
       {
         "id": 18,
         "name": "Processador Intel Core i5 13400 2.5GHz (4.6GHz Turbo), 13ª Geração, 10-Cores 16-Threads, LGA 1700, BX8071513400",
-        "price": "R$ 1.499,00",
+        "price": "R$ 1.539,00",
         "url": "https://www.terabyteshop.com.br/produto/23462/processador-intel-core-i5-13400-25ghz-46ghz-turbo-13-geracao-10-cores-16-threads-lga-1700-bx8071513400",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.499,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.539,00"
           }
         ]
       },
       {
         "id": 19,
         "name": "Processador Intel Core i5 13600KF 3.5GHz (5.1GHz Turbo), 13ª Geração, 14-Core 20-Threads, LGA 1700, BX8071513600KF",
-        "price": "R$ 2.118,99",
+        "price": "R$ 2.069,00",
         "url": "https://www.terabyteshop.com.br/produto/22635/processador-intel-core-i5-13600kf-35ghz-51ghz-turbo-13-geracao-14-core-20-threads-lga-1700-bx8071513600kf",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 2.118,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.069,00"
           }
         ]
       },
       {
         "id": 20,
         "name": "Processador AMD Ryzen 7 7700 3.8GHz (5.3GHz Turbo), 8-Cores 16-Threads, AM5, Com Cooler AMD Wraith Prism, 100-100000592BOX",
-        "price": "R$ 2.048,99",
+        "price": "R$ 1.999,99",
         "url": "https://www.terabyteshop.com.br/produto/23411/processador-amd-ryzen-7-7700-38ghz-53ghz-turbo-8-cores-16-threads-am5-com-cooler-amd-wraith-prism-100-100000592box",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 2.048,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.999,99"
           }
         ]
       },
@@ -4478,12 +4574,16 @@
       {
         "id": 22,
         "name": "Processador Intel Core i3 10105F 3.7GHz (4.4GHz Turbo), 10ª Geração, 4-Cores 8-Threads, LGA 1200, BX8070110105F",
-        "price": "R$ 449,00",
+        "price": "R$ 428,90",
         "url": "https://www.terabyteshop.com.br/produto/17522/processador-intel-i3-10105f-37ghz-44ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-bx8070110105f",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 449,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 428,90"
           }
         ]
       },
@@ -4506,12 +4606,16 @@
       {
         "id": 24,
         "name": "Processador Intel Core i5 13400F 2.5GHz (4.6GHz Turbo), 13ª Geração, 10-Cores 16-Threads, LGA 1700, BX8071513400F",
-        "price": "R$ 1.348,99",
+        "price": "R$ 1.389,00",
         "url": "https://www.terabyteshop.com.br/produto/23460/processador-intel-core-i5-13400f-25ghz-46ghz-turbo-13-geracao-10-cores-16-threads-lga-1700-bx8071513400f",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.348,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.389,00"
           }
         ]
       },
@@ -4530,7 +4634,7 @@
       {
         "id": 26,
         "name": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Turbo), 8-Cores 16-Threads, AM4, Sem Cooler, 100-100000926WOF",
-        "price": "R$ 1.097,99",
+        "price": "R$ 1.307,99",
         "url": "https://www.terabyteshop.com.br/produto/20813/processador-amd-ryzen-7-5700x-34ghz-46ghz-turbo-8-cores-16-threads-am4-sem-cooler-100-100000926wof",
         "price_updates": [
           {
@@ -4540,6 +4644,10 @@
           {
             "date": "16/12/2023",
             "price": "R$ 1.097,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.307,99"
           }
         ]
       },
@@ -4586,36 +4694,48 @@
       {
         "id": 29,
         "name": "Processador AMD Ryzen 7 5800X 3.8GHz (4.7GHz Turbo), 8-Cores 16-Threads, AM4, Sem Cooler",
-        "price": "R$ 1.489,00",
+        "price": "R$ 1.629,99",
         "url": "https://www.terabyteshop.com.br/produto/15695/processador-amd-ryzen-7-5800x-38ghz-47ghz-turbo-8-cores-16-threads-am4-sem-cooler",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.489,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.629,99"
           }
         ]
       },
       {
         "id": 30,
         "name": "Processador AMD Ryzen 9 5950X 3.4GHz (4.9GHz Turbo), 16-Cores 32-Threads, AM4, Sem Cooler, 100-100000059WOF",
-        "price": "R$ 2.898,99",
+        "price": "R$ 2.999,99",
         "url": "https://www.terabyteshop.com.br/produto/15697/processador-amd-ryzen-9-5950x-34ghz-49ghz-turbo-16-cores-32-threads-am4-sem-cooler",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 2.898,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.999,99"
           }
         ]
       },
       {
         "id": 31,
         "name": "Processador Intel Core i7 10700K, 3.80GHz (5.10GHz Turbo), 10ª Geração, 8-Cores 16-Threads, LGA 1200, BX8070110700K",
-        "price": "R$ 1.498,99",
+        "price": "R$ 1.759,00",
         "url": "https://www.terabyteshop.com.br/produto/13724/processador-intel-core-i7-10700k-380ghz-470ghz-turbo-10-geracao-8-cores-16-threads-lga-1200-bx8070110700k",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.498,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.759,00"
           }
         ]
       },
@@ -4650,24 +4770,32 @@
       {
         "id": 34,
         "name": "Processador AMD Ryzen 5 5500 3.6GHz (4.2GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, Sem Vídeo Integrado, 100-100000457BOX",
-        "price": "R$ 597,99",
+        "price": "R$ 1.049,00",
         "url": "https://www.terabyteshop.com.br/produto/20782/processador-amd-ryzen-5-5500-36ghz-42ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-100-100000457box",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 597,99"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 1.049,00"
           }
         ]
       },
       {
         "id": 35,
         "name": "Processador AMD Ryzen 5 5600 3.5GHz (4.4GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, 100-100000927BOX",
-        "price": "R$ 847,99",
+        "price": "R$ 899,99",
         "url": "https://www.terabyteshop.com.br/produto/20788/processador-amd-ryzen-5-5600-35ghz-44ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-100-100000927box",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 847,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 899,99"
           }
         ]
       },
@@ -4694,19 +4822,23 @@
       {
         "id": 37,
         "name": "Processador AMD Ryzen 5 5600G 3.9GHz (4.4GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, Com vídeo integrado, 100-100000252BOX",
-        "price": "R$ 898,99",
+        "price": "R$ 1.159,99",
         "url": "https://www.terabyteshop.com.br/produto/18971/processador-amd-ryzen-5-5600g-39ghz-44ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-com-video-integrado-100-100000252box",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 898,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.159,99"
           }
         ]
       },
       {
         "id": 38,
         "name": "Processador Intel Celeron G5925 3.6GHz, 2-Cores 2-Threads, LGA 1200, BX80701G5925",
-        "price": "R$ 349,00",
+        "price": "R$ 329,90",
         "url": "https://www.terabyteshop.com.br/produto/17929/processador-intel-celeron-g5925-36ghz-2-cores-2-threads-lga-1200-bx80701g5925",
         "price_updates": [
           {
@@ -4720,6 +4852,10 @@
           {
             "date": "26/12/2023",
             "price": "R$ 349,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 329,90"
           }
         ]
       },
@@ -4786,7 +4922,7 @@
       {
         "id": 42,
         "name": "Processador AMD Ryzen Threadripper 7970X, 4.0GHz (5.2GHz Turbo), 32-Cores 64-Threads, sTR5, Sem Cooler, OEM, 100-000001351",
-        "price": "R$ 24.999,00",
+        "price": "R$ 17.999,00",
         "url": "https://www.terabyteshop.com.br/produto/26903/processador-amd-ryzen-threadripper-7970x-40ghz-52ghz-turbo-32-cores-64-threads-str5-sem-cooler-oem-100-000001351",
         "price_updates": [
           {
@@ -4796,6 +4932,10 @@
           {
             "date": "31/12/2023",
             "price": "R$ 24.999,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 17.999,00"
           }
         ]
       },
@@ -4814,19 +4954,23 @@
       {
         "id": 44,
         "name": "Processador AMD Ryzen 3 3200G 3.6GHz (4.0GHz Turbo), 4-Cores 4-Threads, Cooler Wraith Stealth, AM4, YD3200C5FHBOX",
-        "price": "R$ 499,00",
+        "price": "R$ 467,99",
         "url": "https://www.terabyteshop.com.br/produto/26551/processador-amd-ryzen-3-3200g-36ghz-40ghz-turbo-4-cores-4-threads-cooler-wraith-stealth-am4-yd3200c5fhbox",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 499,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 467,99"
           }
         ]
       },
       {
         "id": 45,
         "name": "Processador Intel Core i9 14900K, 3.6 GHz (6.0GHz Turbo), 14ª Geração, 24-Cores 32-Threads, LGA 1700, BX8071514900K",
-        "price": "R$ 0000",
+        "price": "R$ 4.299,00",
         "url": "https://www.terabyteshop.com.br/produto/26259/processador-intel-core-i9-14900k-36-ghz-60ghz-turbo-14-geracao-24-cores-32-threads-lga-1700-bx8071514900k",
         "price_updates": [
           {
@@ -4848,13 +4992,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 4.299,00"
           }
         ]
       },
       {
         "id": 46,
         "name": "Processador AMD Ryzen 3 4100 3.8GHz (4.0GHz Turbo), 4-Cores 8-Threads, Cooler Wraith Stealth, AM4, 100-100000510BOX",
-        "price": "R$ 397,99",
+        "price": "R$ 429,99",
         "url": "https://www.terabyteshop.com.br/produto/25440/processador-amd-ryzen-3-4100-38ghz-40ghz-turbo-4-cores-8-threads-cooler-wraith-stealth-am4-100-100000510box",
         "price_updates": [
           {
@@ -4864,6 +5012,10 @@
           {
             "date": "21/12/2023",
             "price": "R$ 397,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 429,99"
           }
         ]
       },
@@ -4938,12 +5090,16 @@
       {
         "id": 51,
         "name": "Processador AMD Ryzen 9 7900 3.7GHz (5.4GHz Turbo), 12-Cores 24-Threads, AM5, Com Cooler Wraith Prism, 100-100000590BOX",
-        "price": "R$ 2.599,00",
+        "price": "R$ 2.759,99",
         "url": "https://www.terabyteshop.com.br/produto/23409/processador-amd-ryzen-9-7900-37ghz-54ghz-turbo-12-cores-24-threads-am5-com-cooler-wraith-prism-100-100000590box",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 2.599,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.759,99"
           }
         ]
       },
@@ -4962,7 +5118,7 @@
       {
         "id": 53,
         "name": "Processador Intel Core i5 13600K 3.5GHz (5.1GHz Turbo), 13ª Geração, 14-Core 20-Threads, LGA 1700, BX8071513600K",
-        "price": "R$ 0000",
+        "price": "R$ 2.089,00",
         "url": "https://www.terabyteshop.com.br/produto/22636/processador-intel-core-i5-13600k-35ghz-51ghz-turbo-13-geracao-14-core-20-threads-lga-1700-bx8071513600k",
         "price_updates": [
           {
@@ -4984,6 +5140,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.089,00"
           }
         ]
       },
@@ -5098,12 +5258,16 @@
       {
         "id": 62,
         "name": "Processador Intel Core i7 11700K 3.6GHz (5.0GHz Turbo), 11ª Geração, 8-Cores 16-Threads, LGA 1200, BX8070811700K",
-        "price": "R$ 1.859,00",
+        "price": "R$ 1.838,99",
         "url": "https://www.terabyteshop.com.br/produto/17255/processador-intel-core-i7-11700k-36ghz-50ghz-turbo-11-geracao-8-cores-16-threads-lga-1200-bx8070811700k",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 1.859,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.838,99"
           }
         ]
       },
@@ -5220,7 +5384,7 @@
       {
         "id": 2,
         "name": "Memória DDR4 XPG Gammix D10, 16GB (2x8GB) 3200Mhz, Black",
-        "price": "R$ 297,99",
+        "price": "R$ 329,90",
         "url": "https://www.terabyteshop.com.br/produto/20058/memoria-ddr4-xpg-gammix-d10-16gb-2x8gb-3200mhz-black",
         "price_updates": [
           {
@@ -5246,13 +5410,21 @@
           {
             "date": "27/12/2023",
             "price": "R$ 297,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 319,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 329,90"
           }
         ]
       },
       {
         "id": 3,
         "name": "Memória DDR4 Kingston Fury Beast, RGB, 8GB, 3200Mhz, Black, KF432C16BB2A/8",
-        "price": "R$ 0000",
+        "price": "R$ 179,99",
         "url": "https://www.terabyteshop.com.br/produto/26031/memoria-ddr4-kingston-fury-beast-rgb-8gb-3200mhz-black-kf432c16bb2a8",
         "price_updates": [
           {
@@ -5274,13 +5446,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 179,99"
           }
         ]
       },
       {
         "id": 4,
         "name": "Memória DDR4 XPG GAMMIX D35, 8GB, 3200Mhz, Black, AX4U32008G16A-SBKD35",
-        "price": "R$ 0000",
+        "price": "R$ 149,00",
         "url": "https://www.terabyteshop.com.br/produto/25636/memoria-ddr4-xpg-gammix-d35-8gb-3200mhz-black-ax4u32008g16a-sbkd35",
         "price_updates": [
           {
@@ -5298,13 +5474,21 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 139,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 149,00"
           }
         ]
       },
       {
         "id": 5,
         "name": "Memória DDR4 XPG Gammix D10, 8GB 3200Mhz, CL16, Black, AX4U32008G16A-SB10",
-        "price": "R$ 149,00",
+        "price": "R$ 169,00",
         "url": "https://www.terabyteshop.com.br/produto/17935/memoria-ddr4-xpg-gammix-d10-8gb-3200mhz-cl16-black-ax4u32008g16a-sb10",
         "price_updates": [
           {
@@ -5314,18 +5498,26 @@
           {
             "date": "16/12/2023",
             "price": "R$ 149,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 169,00"
           }
         ]
       },
       {
         "id": 6,
         "name": "Memória DDR4 XPG GAMMIX D35, 16GB, 3200Mhz, Black, AX4U320016G16A-SBKD35",
-        "price": "R$ 229,99",
+        "price": "R$ 284,90",
         "url": "https://www.terabyteshop.com.br/produto/25637/memoria-ddr4-xpg-gammix-d35-16gb-3200mhz-black-ax4u320016g16a-sbkd35",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 229,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 284,90"
           }
         ]
       },
@@ -5356,19 +5548,23 @@
       {
         "id": 9,
         "name": "Memória DDR4 XPG Spectrix D35G, RGB, 16GB, 3200Mhz, Black, AX4U320016G16A-SBKD35G",
-        "price": "R$ 269,00",
+        "price": "R$ 279,00",
         "url": "https://www.terabyteshop.com.br/produto/25634/memoria-ddr4-xpg-spectrix-d35g-rgb-16gb-3200mhz-black-ax4u320016g16a-sbkd35g",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 269,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 279,00"
           }
         ]
       },
       {
         "id": 10,
         "name": "Memória DDR4 Kingston Fury Beast, RGB, 16GB, 3200Mhz, Black, KF432C16BB2A/16",
-        "price": "R$ 289,90",
+        "price": "R$ 319,99",
         "url": "https://www.terabyteshop.com.br/produto/26030/memoria-ddr4-kingston-fury-beast-rgb-16gb-3200mhz-black-kf432c16bb2a16",
         "price_updates": [
           {
@@ -5378,13 +5574,17 @@
           {
             "date": "22/12/2023",
             "price": "R$ 289,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 319,99"
           }
         ]
       },
       {
         "id": 11,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 8GB, 3200Mhz, Preto, KF432C16BBA/8",
-        "price": "R$ 189,90",
+        "price": "R$ 172,99",
         "url": "https://www.terabyteshop.com.br/produto/23100/memoria-ddr4-kingston-fury-beast-rgb-8gb-3200mhz-preto-kf432c16bba8",
         "price_updates": [
           {
@@ -5402,13 +5602,17 @@
           {
             "date": "22/12/2023",
             "price": "R$ 189,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 172,99"
           }
         ]
       },
       {
         "id": 12,
         "name": "Memória DDR4 Geil Orion, 8GB, 3200MHz, Gray, GAOG48GB3200C22SC",
-        "price": "R$ 119,90",
+        "price": "R$ 129,00",
         "url": "https://www.terabyteshop.com.br/produto/22256/memoria-ddr4-geil-orion-8gb-3200mhz-gray-gaog48gb3200c22sc",
         "price_updates": [
           {
@@ -5434,25 +5638,33 @@
           {
             "date": "26/12/2023",
             "price": "R$ 119,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 129,00"
           }
         ]
       },
       {
         "id": 13,
         "name": "Memória DDR4 XPG Spectrix D41, 8GB, 3200MHz, RGB, Gray, AX4U32008G16A-ST41",
-        "price": "R$ 159,00",
+        "price": "R$ 179,00",
         "url": "https://www.terabyteshop.com.br/produto/23032/memoria-ddr4-xpg-spectrix-d41-8gb-3200mhz-rgb-gray-ax4u32008g16a-st41",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 159,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 179,00"
           }
         ]
       },
       {
         "id": 14,
         "name": "Memória DDR4 XPG GAMMIX D35, 16GB, 3200Mhz, White, AX4U320016G16A-SWHD35",
-        "price": "R$ 239,00",
+        "price": "R$ 284,90",
         "url": "https://www.terabyteshop.com.br/produto/26098/memoria-ddr4-xpg-gammix-d35-16gb-3200mhz-white-ax4u320016g16a-swhd35",
         "price_updates": [
           {
@@ -5466,18 +5678,26 @@
           {
             "date": "22/12/2023",
             "price": "R$ 239,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 284,90"
           }
         ]
       },
       {
         "id": 15,
         "name": "Memória DDR4 XPG Gammix D10, 8GB 3600Mhz, Black, AX4U36008G18I-SB10",
-        "price": "R$ 159,00",
+        "price": "R$ 179,00",
         "url": "https://www.terabyteshop.com.br/produto/23031/memoria-ddr4-xpg-gammix-d10-8gb-3600mhz-black-ax4u36008g18i-sb10",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 159,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 179,00"
           }
         ]
       },
@@ -5580,7 +5800,7 @@
       {
         "id": 20,
         "name": "Memória DDR4 Geil Orion, 16GB, 3200MHz, Red, GAOR416GB3200C16BSC",
-        "price": "R$ 279,90",
+        "price": "R$ 239,90",
         "url": "https://www.terabyteshop.com.br/produto/20324/memoria-ddr4-geil-orion-16gb-3200mhz-red-gaor416gb3200c16bsc",
         "price_updates": [
           {
@@ -5594,6 +5814,10 @@
           {
             "date": "14/12/2023",
             "price": "R$ 279,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 239,90"
           }
         ]
       },
@@ -5760,7 +5984,7 @@
       {
         "id": 27,
         "name": "Memória DDR4 Geil Evo Potenza, 8GB, 3600MHz, Red, GAPR48GB3600C18BSC",
-        "price": "R$ 179,90",
+        "price": "R$ 149,99",
         "url": "https://www.terabyteshop.com.br/produto/16840/memoria-ddr4-geil-evo-potenza-8gb-3600mhz-red-gapr48gb3600c18bsc",
         "price_updates": [
           {
@@ -5786,6 +6010,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 179,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 149,99"
           }
         ]
       },
@@ -5844,7 +6072,7 @@
       {
         "id": 30,
         "name": "Memória DDR4 Geil Orion, 8GB, 3200MHz, Red, GAOR48GB3200C16BSC",
-        "price": "R$ 139,90",
+        "price": "R$ 129,00",
         "url": "https://www.terabyteshop.com.br/produto/16740/memoria-ddr4-geil-orion-8gb-3200mhz-vermelho-gaor48gb3200c16bsc",
         "price_updates": [
           {
@@ -5870,6 +6098,10 @@
           {
             "date": "31/12/2023",
             "price": "R$ 139,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 129,00"
           }
         ]
       },
@@ -5904,7 +6136,7 @@
       {
         "id": 32,
         "name": "Memória DDR4 Geil Orion, 16GB, 3200MHz, Gray, GAOG416GB3200C16BSC",
-        "price": "R$ 289,00",
+        "price": "R$ 239,90",
         "url": "https://www.terabyteshop.com.br/produto/16411/memoria-ddr4-geil-orion-16gb-3200mhz-black-gaog416gb3200c16bsc",
         "price_updates": [
           {
@@ -5922,6 +6154,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 289,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 239,90"
           }
         ]
       },
@@ -6074,13 +6310,21 @@
           {
             "date": "24/12/2023",
             "price": "R$ 279,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 259,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 279,00"
           }
         ]
       },
       {
         "id": 38,
         "name": "Memória DDR4 XPG Spectrix Gammix D45G, RGB, 32GB (2X16GB), 3600MHz, Black, AX4U360016G18I-DCBKD45G",
-        "price": "R$ 689,00",
+        "price": "R$ 728,90",
         "url": "https://www.terabyteshop.com.br/produto/19404/memoria-ddr4-xpg-gammix-d45-rgb-32gb-2x16gb-3600mhz-black-ax4u360016g18i-dcbkd45g",
         "price_updates": [
           {
@@ -6098,6 +6342,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 689,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 728,90"
           }
         ]
       },
@@ -6132,7 +6380,7 @@
       {
         "id": 40,
         "name": "Memória DDR4 Geil Orion, 8GB, 3200MHz, Gray, GAOG48GB3200C16BSC",
-        "price": "R$ 129,90",
+        "price": "R$ 129,00",
         "url": "https://www.terabyteshop.com.br/produto/16834/memoria-ddr4-geil-orion-edicao-amd-8gb-3200mhz-gray-gaog48gb3200c16bsc",
         "price_updates": [
           {
@@ -6166,6 +6414,10 @@
           {
             "date": "31/12/2023",
             "price": "R$ 129,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 129,00"
           }
         ]
       },
@@ -6200,7 +6452,7 @@
       {
         "id": 42,
         "name": "Memória DDR4 XPG Gammix D10, 16GB, 3600Mhz, CL18, Black, AX4U360016G18I-SB10",
-        "price": "R$ 329,00",
+        "price": "R$ 309,90",
         "url": "https://www.terabyteshop.com.br/produto/23022/memoria-ddr4-xpg-gammix-d10-16gb-3600mhz-cl18-black-ax4u360016g18i-sb10",
         "price_updates": [
           {
@@ -6218,6 +6470,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 329,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 309,90"
           }
         ]
       },
@@ -6308,7 +6564,7 @@
       {
         "id": 46,
         "name": "Memória DDR4 Geil EVO X II RGB SYNC 16GB (2x8GB) 3600mhz, GAEXSY416GB3600C18BDC",
-        "price": "R$ 349,90",
+        "price": "R$ 439,00",
         "url": "https://www.terabyteshop.com.br/produto/12322/memoria-ddr4-geil-evo-x-ii-rgb-16gb-2x8gb-3600mhz-gaexsy416gb3600c18bdc",
         "price_updates": [
           {
@@ -6330,13 +6586,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 349,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 439,00"
           }
         ]
       },
       {
         "id": 47,
         "name": "Memória DDR4 Geil Super Luce RGB TUF Gaming Alliance, 16GB (2x8GB), 3000MHz, GLTS416GB3000C16ADC",
-        "price": "R$ 349,90",
+        "price": "R$ 469,00",
         "url": "https://www.terabyteshop.com.br/produto/16848/memoria-ddr4-geil-super-luce-rgb-tuf-gaming-alliance-16gb-2x8gb-3000mhz-glts416gb3000c16adc",
         "price_updates": [
           {
@@ -6362,13 +6622,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 349,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 469,00"
           }
         ]
       },
       {
         "id": 48,
         "name": "Memória DDR4 Geil Super Luce RGB TUF Gaming Alliance, 16GB (2x8GB), 3200MHz, GLTS416GB3200C16BDC",
-        "price": "R$ 369,00",
+        "price": "R$ 439,00",
         "url": "https://www.terabyteshop.com.br/produto/16849/memoria-ddr4-geil-super-luce-rgb-tuf-gaming-alliance-16gb-2x8gb-3200mhz-glts416gb3200c16bdc",
         "price_updates": [
           {
@@ -6386,6 +6650,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 369,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 439,00"
           }
         ]
       },
@@ -6412,7 +6680,7 @@
       {
         "id": 50,
         "name": "Memória DDR4 G.Skill Trident Z, RGB, 32GB (2x16GB) 3600MHz, F4-3600C18D-32GTZR",
-        "price": "R$ 757,99",
+        "price": "R$ 749,90",
         "url": "https://www.terabyteshop.com.br/produto/26928/memoria-ddr4-gskill-trident-z-rgb-32gb-2x16gb-3600mhz-f4-3600c18d-32gtzr",
         "price_updates": [
           {
@@ -6426,13 +6694,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 757,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 749,90"
           }
         ]
       },
       {
         "id": 51,
         "name": "Memória DDR4 Geil Evo Potenza, 8GB, 3200MHz, Black, GAPB48GB3200C22SC",
-        "price": "R$ 97,99",
+        "price": "R$ 125,90",
         "url": "https://www.terabyteshop.com.br/produto/26929/memoria-ddr4-geil-evo-potenza-8gb-3200mhz-black-gapb48gb3200c22sc",
         "price_updates": [
           {
@@ -6442,13 +6714,17 @@
           {
             "date": "14/12/2023",
             "price": "R$ 97,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 125,90"
           }
         ]
       },
       {
         "id": 52,
         "name": "Memória DDR4 Geil Evo Potenza, 16GB, 3200MHz, Black, GAPB416GB3200C22SC",
-        "price": "R$ 197,99",
+        "price": "R$ 229,99",
         "url": "https://www.terabyteshop.com.br/produto/26930/memoria-ddr4-geil-evo-potenza-16gb-3200mhz-black-gapb416gb3200c22sc",
         "price_updates": [
           {
@@ -6470,13 +6746,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 197,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 229,99"
           }
         ]
       },
       {
         "id": 53,
         "name": "Memória DDR4 Geil Orion, 16GB, 3200MHz, Gray, GAOG416GB3200C22SC",
-        "price": "R$ 219,90",
+        "price": "R$ 239,90",
         "url": "https://www.terabyteshop.com.br/produto/26931/memoria-ddr4-geil-orion-16gb-3200mhz-gray-gaog416gb3200c22sc",
         "price_updates": [
           {
@@ -6502,13 +6782,17 @@
           {
             "date": "26/12/2023",
             "price": "R$ 219,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 239,90"
           }
         ]
       },
       {
         "id": 54,
         "name": "Memória DDR4 Geil Orion RGB, 8GB, 3200MHz, Gray, GAOSG48GB3200C22SC",
-        "price": "R$ 139,00",
+        "price": "R$ 164,90",
         "url": "https://www.terabyteshop.com.br/produto/26932/memoria-ddr4-geil-orion-rgb-8gb-3200mhz-gray-gaosg48gb3200c22sc",
         "price_updates": [
           {
@@ -6522,13 +6806,17 @@
           {
             "date": "21/12/2023",
             "price": "R$ 139,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 164,90"
           }
         ]
       },
       {
         "id": 55,
         "name": "Memória DDR4 Geil Orion RGB, 16GB, 3200MHz, Gray, GAOSG416GB3200C22SC",
-        "price": "R$ 219,90",
+        "price": "R$ 259,90",
         "url": "https://www.terabyteshop.com.br/produto/26933/memoria-ddr4-geil-orion-rgb-16gb-3200mhz-gray-gaosg416gb3200c22sc",
         "price_updates": [
           {
@@ -6550,6 +6838,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 219,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 259,90"
           }
         ]
       },
@@ -6608,7 +6900,7 @@
       {
         "id": 58,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 128GB (4x32GB), 2666Mhz, Preto, KF426C16BB2AK4/128",
-        "price": "R$ 1.879,90",
+        "price": "R$ 1.887,90",
         "url": "https://www.terabyteshop.com.br/produto/26033/memoria-ddr4-kingston-fury-beast-rgb-128gb-4x32gb-2666mhz-preto-kf426c16bb2ak4128",
         "price_updates": [
           {
@@ -6634,13 +6926,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 1.879,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.887,90"
           }
         ]
       },
       {
         "id": 59,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 64GB (4x16GB), 3600Mhz, Preto, KF436C18BB2AK4/64",
-        "price": "R$ 1.299,90",
+        "price": "R$ 1.307,99",
         "url": "https://www.terabyteshop.com.br/produto/26039/memoria-ddr4-kingston-fury-beast-rgb-64gb-4x16gb-3600mhz-preto-kf436c18bb2ak464",
         "price_updates": [
           {
@@ -6658,13 +6954,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 1.299,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.307,99"
           }
         ]
       },
       {
         "id": 60,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 64GB (4x16GB), 3200Mhz, Preto, KF432C16BB2AK4/64",
-        "price": "R$ 1.129,90",
+        "price": "R$ 1.147,99",
         "url": "https://www.terabyteshop.com.br/produto/26043/memoria-ddr4-kingston-fury-beast-rgb-64gb-4x16gb-3200mhz-preto-kf432c16bb2ak464",
         "price_updates": [
           {
@@ -6686,13 +6986,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 1.129,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.147,99"
           }
         ]
       },
       {
         "id": 61,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 128GB (4x32GB), 3200Mhz, Preto, KF432C16BB2AK4/128",
-        "price": "R$ 2.039,00",
+        "price": "R$ 2.059,00",
         "url": "https://www.terabyteshop.com.br/produto/26044/memoria-ddr4-kingston-fury-beast-rgb-128gb-4x32gb-3200mhz-preto-kf432c16bb2ak4128",
         "price_updates": [
           {
@@ -6710,13 +7014,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 2.039,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.059,00"
           }
         ]
       },
       {
         "id": 62,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 128GB (4x32GB), 3600Mhz, Preto, KF436C18BB2AK4/128",
-        "price": "R$ 2.249,90",
+        "price": "R$ 2.264,00",
         "url": "https://www.terabyteshop.com.br/produto/26046/memoria-ddr4-kingston-fury-beast-rgb-128gb-4x32gb-3600mhz-preto-kf436c18bb2ak4128",
         "price_updates": [
           {
@@ -6734,13 +7042,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 2.249,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 2.264,00"
           }
         ]
       },
       {
         "id": 63,
         "name": "Memória DDR4 Kingston Fury Beast RGB, 64GB (4x16GB), 3200Mhz, Preto, KF432C16BB12AK4/64",
-        "price": "R$ 1.129,90",
+        "price": "R$ 1.159,90",
         "url": "https://www.terabyteshop.com.br/produto/26049/memoria-ddr4-kingston-fury-beast-rgb-64gb-4x16gb-3200mhz-preto-kf432c16bb12ak464",
         "price_updates": [
           {
@@ -6758,6 +7070,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 1.129,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.159,90"
           }
         ]
       },
@@ -6820,7 +7136,7 @@
       {
         "id": 66,
         "name": "Memória DDR4 Duex, 8GB, 2400MHz",
-        "price": "R$ 128,90",
+        "price": "R$ 137,99",
         "url": "https://www.terabyteshop.com.br/produto/25435/memoria-ddr4-duex-8gb-2400mhz",
         "price_updates": [
           {
@@ -6842,13 +7158,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 128,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 137,99"
           }
         ]
       },
       {
         "id": 67,
         "name": "Memória DDR4 XPG Spectrix D41, 16GB (2X8GB), 3200MHz, CL16, RGB, Gray, AX4U32008G16A-DT41",
-        "price": "R$ 359,90",
+        "price": "R$ 344,90",
         "url": "https://www.terabyteshop.com.br/produto/23021/memoria-ddr4-xpg-spectrix-d41-16gb-2x8gb-3200mhz-rgb-gray-ax4u32008g16a-dt41",
         "price_updates": [
           {
@@ -6882,6 +7202,10 @@
           {
             "date": "26/12/2023",
             "price": "R$ 359,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 344,90"
           }
         ]
       },
@@ -6944,7 +7268,7 @@
       {
         "id": 70,
         "name": "Memória DDR4 XPG Spectrix D50, 8GB, 3600Mhz, CL18, RGB, Gray, AX4U36008G18I-ST50",
-        "price": "R$ 199,00",
+        "price": "R$ 217,90",
         "url": "https://www.terabyteshop.com.br/produto/22277/memoria-ddr4-xpg-spectrix-d50-8gb-3600mhz-cl18-rgb-gray-ax4u36008g18i-st50",
         "price_updates": [
           {
@@ -6966,13 +7290,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 199,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 217,90"
           }
         ]
       },
       {
         "id": 71,
         "name": "Memória DDR4 XPG Spectrix D60G, 32GB (2X16GB), 3200MHz , RGB, Black, AX4U320016G16A-DT60",
-        "price": "R$ 0000",
+        "price": "R$ 749,00",
         "url": "https://www.terabyteshop.com.br/produto/21380/memoria-ddr4-xpg-spectrix-d60g-32gb-2x16gb-3200mhz-rgb-black-ax4u320016g16a-dt60",
         "price_updates": [
           {
@@ -6990,6 +7318,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 749,00"
           }
         ]
       },
@@ -7020,7 +7352,7 @@
       {
         "id": 73,
         "name": "Memória DDR4 Kingston Fury Renegade RGB, 8GB, 3600Mhz, Black, KF436C16RBA/8",
-        "price": "R$ 209,99",
+        "price": "R$ 224,90",
         "url": "https://www.terabyteshop.com.br/produto/20987/memoria-kingston-fury-renegade-rgb-8gb-3600mhz-ddr4-black-kf436c16rba8",
         "price_updates": [
           {
@@ -7046,13 +7378,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 209,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 224,90"
           }
         ]
       },
       {
         "id": 74,
         "name": "Memória DDR4 Kingston Fury Renegade RGB, 8GB, 4000Mhz, Black, KF440C19RBA/8",
-        "price": "R$ 419,90",
+        "price": "R$ 427,99",
         "url": "https://www.terabyteshop.com.br/produto/20990/memoria-kingston-fury-renegade-rgb-8gb-4000mhz-ddr4-black-kf440c19rba8",
         "price_updates": [
           {
@@ -7074,6 +7410,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 419,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 427,99"
           }
         ]
       },
@@ -7200,7 +7540,7 @@
       {
         "id": 79,
         "name": "Memória DDR4 Geil Orion, 16GB (2x8GB) 3200MHz, Red, GAOR416GB3200C16BDC",
-        "price": "R$ 269,90",
+        "price": "R$ 294,90",
         "url": "https://www.terabyteshop.com.br/produto/20325/memoria-ddr4-geil-orion-16gb-2x8gb-3200mhz-red-gaor416gb3200c16bdc",
         "price_updates": [
           {
@@ -7222,13 +7562,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 269,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 294,90"
           }
         ]
       },
       {
         "id": 80,
         "name": "Memória DDR4 XPG Gammix D45, 8GB, 3200MHz, Black, AX4U32008G16A-CBKD45",
-        "price": "R$ 179,90",
+        "price": "R$ 189,90",
         "url": "https://www.terabyteshop.com.br/produto/19396/memoria-ddr4-xpg-gammix-d45-8gb-3200mhz-black-ax4u32008g16a-cbkd45",
         "price_updates": [
           {
@@ -7250,13 +7594,21 @@
           {
             "date": "24/12/2023",
             "price": "R$ 179,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 184,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 189,90"
           }
         ]
       },
       {
         "id": 81,
         "name": "Memória DDR4 XPG Spectrix Gammix D45, RGB, 8GB, 3600MHz, Black, AX4U36008G18I-CBKD45G",
-        "price": "R$ 197,99",
+        "price": "R$ 209,99",
         "url": "https://www.terabyteshop.com.br/produto/19399/memoria-ddr4-xpg-gammix-d45-rgb-8gb-3600mhz-black-ax4u36008g18i-cbkd45g",
         "price_updates": [
           {
@@ -7282,13 +7634,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 197,99"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 209,99"
           }
         ]
       },
       {
         "id": 82,
         "name": "Memória DDR4 XPG Gammix D45, 16GB (2x8GB), 3200MHz, Black, AX4U32008G16A-DCBKD45",
-        "price": "R$ 349,00",
+        "price": "R$ 357,90",
         "url": "https://www.terabyteshop.com.br/produto/19401/memoria-ddr4-xpg-gammix-d45-16gb-2x8gb-3200mhz-black-ax4u32008g16a-dcbkd45",
         "price_updates": [
           {
@@ -7310,13 +7666,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 349,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 357,90"
           }
         ]
       },
       {
         "id": 83,
         "name": "Memória DDR4 XPG Gammix D45, 32GB (2x16GB), 3200MHz, Black, AX4U320016G16A-DCBKD45",
-        "price": "R$ 599,90",
+        "price": "R$ 739,00",
         "url": "https://www.terabyteshop.com.br/produto/19403/memoria-ddr4-xpg-gammix-d45-32gb-2x16gb-3200mhz-black-ax4u320016g16a-dcbkd45",
         "price_updates": [
           {
@@ -7338,6 +7698,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 599,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 739,00"
           }
         ]
       },
@@ -7396,7 +7760,7 @@
       {
         "id": 86,
         "name": "Memória DDR4 XPG Spectrix D50, 16GB (2x8GB), 3600Mhz, RGB, Gray, AX4U360016G18I-DT50",
-        "price": "R$ 749,00",
+        "price": "R$ 699,00",
         "url": "https://www.terabyteshop.com.br/produto/19140/memoria-ddr4-xpg-spectrix-d50-16gb-2x8gb-3600mhz-cl16-rgb-gray-ax4u360016g18i-dt50",
         "price_updates": [
           {
@@ -7418,13 +7782,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 749,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 699,00"
           }
         ]
       },
       {
         "id": 87,
         "name": "Memória DDR4 XPG Spectrix D50, 8GB, 3200Mhz, RGB, Gray, AX4U32008G16A-ST50",
-        "price": "R$ 189,90",
+        "price": "R$ 209,90",
         "url": "https://www.terabyteshop.com.br/produto/18885/memoria-ddr4-xpg-spectrix-d50-8gb-3200mhz-rgb-gray-ax4u320088g16a-st50",
         "price_updates": [
           {
@@ -7446,13 +7814,17 @@
           {
             "date": "25/12/2023",
             "price": "R$ 189,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 209,90"
           }
         ]
       },
       {
         "id": 88,
         "name": "Memória DDR4 Geil EVO Spear Phantom Gaming (AMD), 16GB (2x8GB), 3000MHz, Black, GASF416GB3000C16ADC",
-        "price": "R$ 269,90",
+        "price": "R$ 369,90",
         "url": "https://www.terabyteshop.com.br/produto/18833/memoria-ddr4-geil-evo-spear-phantom-gaming-amd-16gb-2x8gb-3000mhz-black-gasf416gb3000c16adc-imp",
         "price_updates": [
           {
@@ -7474,6 +7846,10 @@
           {
             "date": "25/12/2023",
             "price": "R$ 269,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 369,90"
           }
         ]
       },
@@ -7508,7 +7884,7 @@
       {
         "id": 90,
         "name": "Memória DDR4 XPG Spectrix D50, 8GB, 3200Mhz, RGB, White, AX4U32008G16A-SW50",
-        "price": "R$ 0000",
+        "price": "R$ 212,90",
         "url": "https://www.terabyteshop.com.br/produto/18705/memoria-ddr4-xpg-spectrix-d50-8gb-1x8gb-3200mhz-rgb-white-ax4u32008g16a-sw50",
         "price_updates": [
           {
@@ -7526,6 +7902,14 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 214,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 212,90"
           }
         ]
       },
@@ -7644,7 +8028,7 @@
       {
         "id": 95,
         "name": "Memória DDR4 Geil Orion RGB, Edição AMD, 8GB, 3600MHz, Red, GAOSR48GB3600C18BSC",
-        "price": "R$ 179,90",
+        "price": "R$ 209,90",
         "url": "https://www.terabyteshop.com.br/produto/16828/memoria-ddr4-geil-orion-rgb-edicao-amd-8gb-3600mhz-red-gaosr48gb3600c18bsc",
         "price_updates": [
           {
@@ -7666,6 +8050,10 @@
           {
             "date": "31/12/2023",
             "price": "R$ 179,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 209,90"
           }
         ]
       },
@@ -7700,7 +8088,7 @@
       {
         "id": 97,
         "name": "Memória DDR4 Geil Orion RGB, Edição AMD, 8GB, 3600MHz, Gray, GAOSG48GB3600C18BSC",
-        "price": "R$ 0000",
+        "price": "R$ 209,90",
         "url": "https://www.terabyteshop.com.br/produto/16832/memoria-ddr4-geil-orion-rgb-edicao-amd-8gb-3600mhz-gray-gaosg48gb3600c18bsc",
         "price_updates": [
           {
@@ -7718,13 +8106,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 209,90"
           }
         ]
       },
       {
         "id": 98,
         "name": "Memória DDR4 Geil EVO X II, RGB, 16GB, 3000MHz, Gray, GAEXSY416GB3000C16ASC",
-        "price": "R$ 0000",
+        "price": "R$ 299,00",
         "url": "https://www.terabyteshop.com.br/produto/16836/memoria-ddr4-geil-evo-x-ii-rgb-16gb-3000mhz-gray-gaexsy416gb3000c16asc",
         "price_updates": [
           {
@@ -7742,13 +8134,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 299,00"
           }
         ]
       },
       {
         "id": 99,
         "name": "Memória DDR4 Geil EVO X II RGB Sync, Edição AMD, 8GB, 3200MHz, GAEXSY48GB3200C16BSC",
-        "price": "R$ 0000",
+        "price": "R$ 179,90",
         "url": "https://www.terabyteshop.com.br/produto/16838/memoria-ddr4-geil-evo-x-ii-rgb-sync-edicao-amd-8gb-3200mhz-gaexsy48gb3200c16bsc",
         "price_updates": [
           {
@@ -7766,13 +8162,17 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 179,90"
           }
         ]
       },
       {
         "id": 100,
         "name": "Memória DDR4 Geil EVO X II RGB Sync, Edição AMD, 8GB, 3600MHz, GAEXSY48GB3600C18BSC",
-        "price": "R$ 0000",
+        "price": "R$ 209,00",
         "url": "https://www.terabyteshop.com.br/produto/16839/memoria-ddr4-geil-evo-x-ii-rgb-sync-edicao-amd-8gb-3600mhz-gaexsy48gb3600c18bsc",
         "price_updates": [
           {
@@ -7790,6 +8190,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 209,00"
           }
         ]
       }
@@ -7890,7 +8294,7 @@
       {
         "id": 6,
         "name": "Memória DDR5 Geil Polaris, 32GB (2x16GB) 5600MHz, RGB, Red, GOSR532GB5600C38ADC",
-        "price": "R$ 799,99",
+        "price": "R$ 999,00",
         "url": "https://www.terabyteshop.com.br/produto/26523/memoria-ddr5-geil-polaris-32gb-2x16gb-5600mhz-rgb-red-gosr532gb5600c38adc",
         "price_updates": [
           {
@@ -7900,13 +8304,17 @@
           {
             "date": "14/12/2023",
             "price": "R$ 799,99"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 999,00"
           }
         ]
       },
       {
         "id": 7,
         "name": "Memória DDR5 Geil Polaris, 32GB (2x16GB), 4800MHz, Grey, GAOG532GB4800C40DC",
-        "price": "R$ 699,00",
+        "price": "R$ 859,00",
         "url": "https://www.terabyteshop.com.br/produto/26524/memoria-ddr5-geil-polaris-32gb-2x16gb-4800mhz-grey-gaog532gb4800c40dc",
         "price_updates": [
           {
@@ -7924,13 +8332,21 @@
           {
             "date": "26/12/2023",
             "price": "R$ 699,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 719,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 859,00"
           }
         ]
       },
       {
         "id": 8,
         "name": "Memória DDR5 Geil Polaris RGB, 32GB (2x16GB), 5200MHz, Red, GOSR532GB5200C34ADC",
-        "price": "R$ 769,90",
+        "price": "R$ 949,00",
         "url": "https://www.terabyteshop.com.br/produto/26528/memoria-ddr5-geil-polaris-rgb-32gb-2x16gb-5200mhz-red-gosr532gb5200c34adc",
         "price_updates": [
           {
@@ -7940,6 +8356,10 @@
           {
             "date": "14/12/2023",
             "price": "R$ 769,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 949,00"
           }
         ]
       },
@@ -7970,7 +8390,7 @@
       {
         "id": 10,
         "name": "Memória DDR5 Geil Polaris RGB, 32GB (2x16GB), 5200MHz, Grey, GOSG532GB5200C34ADC",
-        "price": "R$ 769,90",
+        "price": "R$ 949,00",
         "url": "https://www.terabyteshop.com.br/produto/26530/memoria-ddr5-geil-polaris-rgb-32gb-2x16gb-5200mhz-grey-gosg532gb5200c34adc",
         "price_updates": [
           {
@@ -7988,6 +8408,10 @@
           {
             "date": "26/12/2023",
             "price": "R$ 769,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 949,00"
           }
         ]
       },
@@ -8114,7 +8538,7 @@
       {
         "id": 17,
         "name": "Memória DDR5 Geil Orion, 32GB (2x16GB) 5200MHz, RGB, Racing Red, GVSR532GB5200C42DC",
-        "price": "R$ 759,00",
+        "price": "R$ 929,00",
         "url": "https://www.terabyteshop.com.br/produto/26543/memoria-ddr5-geil-orion-32gb-2x16gb-5200mhz-rgb-racing-red-gvsr532gb5200c42dc",
         "price_updates": [
           {
@@ -8124,13 +8548,17 @@
           {
             "date": "14/12/2023",
             "price": "R$ 759,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 929,00"
           }
         ]
       },
       {
         "id": 18,
         "name": "Memória DDR5 Geil Orion, 32GB (2x16GB) 8000MHz, RGB, Titanium Gray, GVSG532GB8000C38ADC",
-        "price": "R$ 2.199,90",
+        "price": "R$ 2.729,00",
         "url": "https://www.terabyteshop.com.br/produto/26505/memoria-ddr5-geil-orion-32gb-2x16gb-8000mhz-rgb-titanium-gray-gvsg532gb8000c38adc",
         "price_updates": [
           {
@@ -8140,6 +8568,10 @@
           {
             "date": "14/12/2023",
             "price": "R$ 2.199,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 2.729,00"
           }
         ]
       },
@@ -8314,7 +8746,7 @@
       {
         "id": 28,
         "name": "Memória DDR5 Kingston FURY Beast, 16GB (2x8GB), 5200MHz, Black, KF552C40BBK2-16",
-        "price": "R$ 439,90",
+        "price": "R$ 447,99",
         "url": "https://www.terabyteshop.com.br/produto/23963/memoria-ddr5-kingston-fury-beast-16gb-2x8gb-5200mhz-black-kf552c40bbk2-16",
         "price_updates": [
           {
@@ -8332,6 +8764,10 @@
           {
             "date": "27/12/2023",
             "price": "R$ 439,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 447,99"
           }
         ]
       },
@@ -8490,7 +8926,7 @@
       {
         "id": 38,
         "name": "Memória DDR5 Geil Polaris RGB, 32GB (2x16GB) 4800MHz, Gray, GOSG532GB4800C40DC",
-        "price": "R$ 739,00",
+        "price": "R$ 919,00",
         "url": "https://www.terabyteshop.com.br/produto/19447/memoria-ddr5-geil-polaris-32gb-2x16gb-4800mhz-gray-gosg532gb4800c40dc",
         "price_updates": [
           {
@@ -8508,6 +8944,10 @@
           {
             "date": "26/12/2023",
             "price": "R$ 739,00"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 919,00"
           }
         ]
       }
@@ -8544,36 +8984,48 @@
       {
         "id": 2,
         "name": "Monitor Gamer Ninja, 21.5 Pol, 75Hz, Full HD, LED, HDMI / VGA, MGN-002-21S",
-        "price": "R$ 399,00",
+        "price": "R$ 389,00",
         "url": "https://www.terabyteshop.com.br/produto/21973/monitor-gamer-ninja-215-pol-5ms-75hz-full-hd-led-hdmi-vga-mgn-002-21s",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 399,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 389,00"
           }
         ]
       },
       {
         "id": 3,
         "name": "Monitor Gamer SuperFrame View, 21,5 Pol, Full HD, 75Hz, Painel VA, HDMI/VGA, SFV22H2F ",
-        "price": "R$ 449,00",
+        "price": "R$ 389,00",
         "url": "https://www.terabyteshop.com.br/produto/22035/monitor-gamer-superframe-view-215-pol-full-hd-75hz-painel-va-hdmivga-sfv22h2f",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 449,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 389,00"
           }
         ]
       },
       {
         "id": 4,
         "name": "Monitor Dr. Office, 20 Pol, HD, 75Hz, HDMI/VGA, MDR-0504-20",
-        "price": "R$ 247,99",
+        "price": "R$ 215,99",
         "url": "https://www.terabyteshop.com.br/produto/24461/monitor-dr-office-20-pol-hd-75hz-hdmivga-mdr-0504-20",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 247,99"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 215,99"
           }
         ]
       },
@@ -8644,7 +9096,7 @@
       {
         "id": 10,
         "name": "Monitor Gamer Ninja Rinnegan, 27 Pol, Curvo, QHD, 1ms, 165Hz, HDR, FreeSync, HDMI/DP, MGN-004-27S",
-        "price": "R$ 1.027,99",
+        "price": "R$ 997,99",
         "url": "https://www.terabyteshop.com.br/produto/23653/monitor-gamer-ninja-rinnegan-27-pol-curvo-qhd-1ms-165hz-hdr-freesync-hdmidp-mgn-004-27s",
         "price_updates": [
           {
@@ -8654,6 +9106,10 @@
           {
             "date": "20/12/2023",
             "price": "R$ 1.027,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 997,99"
           }
         ]
       },
@@ -8684,7 +9140,7 @@
       {
         "id": 13,
         "name": "Monitor Dr. Office, 23.8 Pol, Full HD, 75Hz, HDMI/VGA, MDR-0508-23",
-        "price": "R$ 399,99",
+        "price": "R$ 329,00",
         "url": "https://www.terabyteshop.com.br/produto/24466/monitor-dr-office-238-pol-full-hd-75hz-hdmivga-mdr-0508-23",
         "price_updates": [
           {
@@ -8706,6 +9162,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 399,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 329,00"
           }
         ]
       },
@@ -8728,7 +9188,7 @@
       {
         "id": 15,
         "name": "Monitor Gamer LG, 29 Pol, UltraWide, Full HD, IPS, 99% sRGB, HDR, FreeSync, 29WL500-B",
-        "price": "R$ 1.199,90",
+        "price": "R$ 1.169,00",
         "url": "https://www.terabyteshop.com.br/produto/23880/monitor-gamer-lg-29-pol-ultrawide-full-hd-ips-99-srgb-hdr-freesync-29wl500-b",
         "price_updates": [
           {
@@ -8750,6 +9210,10 @@
           {
             "date": "31/12/2023",
             "price": "R$ 1.199,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 1.169,00"
           }
         ]
       },
@@ -8816,7 +9280,7 @@
       {
         "id": 21,
         "name": "Monitor Gamer AOC, 27 Pol, Full HD, 75Hz, HDMI/VGA, 27B1HM",
-        "price": "R$ 769,90",
+        "price": "R$ 779,00",
         "url": "https://www.terabyteshop.com.br/produto/24351/monitor-gamer-aoc-27-pol-full-hd-75hz-hdmivga-27b1hm",
         "price_updates": [
           {
@@ -8830,6 +9294,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 769,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 779,00"
           }
         ]
       },
@@ -8942,7 +9410,7 @@
       {
         "id": 1,
         "name": "Mouse Gamer Redragon Cobra M711W RGB, 10000 DPI, 7 Botões Programáveis, White",
-        "price": "R$ 99,90",
+        "price": "R$ 103,99",
         "url": "https://www.terabyteshop.com.br/produto/12558/mouse-gamer-redragon-cobra-m711-rgb-10000-dpi-7-botoes-programaveis-white",
         "price_updates": [
           {
@@ -8960,6 +9428,10 @@
           {
             "date": "26/12/2023",
             "price": "R$ 99,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 103,99"
           }
         ]
       },
@@ -9174,12 +9646,16 @@
       {
         "id": 14,
         "name": "Mouse Dr. Office Sem Fio, 1600 DPI, 4 Botões, Black, MDR-0102-B",
-        "price": "R$ 19,99",
+        "price": "R$ 21,99",
         "url": "https://www.terabyteshop.com.br/produto/23712/mouse-dr-office-1600-dpi-4-botoes-sem-fio-black-mdr-0102-b",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 19,99"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 21,99"
           }
         ]
       },
@@ -9226,12 +9702,16 @@
       {
         "id": 18,
         "name": "Mouse Gamer Cooler Master MM310, 12000 DPI, 6 Botões, RGB, Black, MM-310-KKOL1",
-        "price": "R$ 199,90",
+        "price": "R$ 199,00",
         "url": "https://www.terabyteshop.com.br/produto/22372/mouse-gamer-cooler-master-mm310-12000-dpi-6-botoes-rgb-black-mm-310-kkol1",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 199,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 199,00"
           }
         ]
       },
@@ -9338,7 +9818,7 @@
       {
         "id": 25,
         "name": "Mouse Logitech MX Anywhere 3 Wireless, 4000 DPI, 6 Botões, White, 910-005993",
-        "price": "R$ 0000",
+        "price": "R$ 499,90",
         "url": "https://www.terabyteshop.com.br/produto/19430/mouse-logitech-mx-anywhere-3-wireless-4000-dpi-6-botoes-white-910-005993",
         "price_updates": [
           {
@@ -9356,18 +9836,26 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 499,90"
           }
         ]
       },
       {
         "id": 26,
         "name": "Mouse Gamer Redragon King Cobra FPS RGB, 24000 DPI, 7 Botões Programáveis, Lunar White, M711W-FPS",
-        "price": "R$ 139,00",
+        "price": "R$ 147,99",
         "url": "https://www.terabyteshop.com.br/produto/22038/mouse-gamer-redragon-king-cobra-fps-rgb-24000-dpi-7-botoes-programaveis-lunar-white-m711w-fps",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 139,00"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 147,99"
           }
         ]
       },
@@ -9558,7 +10046,7 @@
       {
         "id": 38,
         "name": "Mouse Gamer Redragon MEMEANLION CHROMA, 10000 DPI, 8 Botões, White, M710W-RGB",
-        "price": "R$ 0000",
+        "price": "R$ 99,90",
         "url": "https://www.terabyteshop.com.br/produto/15045/mouse-gamer-redragon-memeanlion-chroma-10000-dpi-8-botoes-white-m710w-rgb",
         "price_updates": [
           {
@@ -9576,6 +10064,10 @@
           {
             "date": "24/12/2023",
             "price": "R$ 0000"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 99,90"
           }
         ]
       },
@@ -9618,12 +10110,16 @@
       {
         "id": 42,
         "name": "Mouse Gamer Akko, One Piece Zoro, 12400 DPI, 5 Botões Pragramáveis, Akko AG325 Zoro",
-        "price": "R$ 189,90",
+        "price": "R$ 179,90",
         "url": "https://www.terabyteshop.com.br/produto/23894/mouse-gamer-akko-one-piece-edition-5000-dpi-5-botoes-pragramaveis-akko-ag325-zoro",
         "price_updates": [
           {
             "date": "07/12/2023",
             "price": "R$ 189,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 179,90"
           }
         ]
       },
@@ -9738,7 +10234,7 @@
       {
         "id": 52,
         "name": "Mouse Gamer Razer Cobra, RGB, 6 Botões Programáveis, 8.500 DPI, Black, RZ0104650100R3U",
-        "price": "R$ 479,90",
+        "price": "R$ 319,90",
         "url": "https://www.terabyteshop.com.br/produto/26368/mouse-gamer-razer-cobra-rgb-6-botoes-programaveis-8500-dpi-black-rz0104650100r3u",
         "price_updates": [
           {
@@ -9752,6 +10248,10 @@
           {
             "date": "31/12/2023",
             "price": "R$ 479,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 319,90"
           }
         ]
       },
@@ -9782,7 +10282,7 @@
       {
         "id": 54,
         "name": "Mouse Gamer Redragon Stormrage M718 RGB, 10000 DPI, 7 Botões Programáveis, Black",
-        "price": "R$ 89,90",
+        "price": "R$ 87,99",
         "url": "https://www.terabyteshop.com.br/produto/10770/mouse-gamer-redragon-stormrage-black-m718-rgb-7-botoes-programaveis-10000-dpi-preto",
         "price_updates": [
           {
@@ -9792,6 +10292,10 @@
           {
             "date": "20/12/2023",
             "price": "R$ 89,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 87,99"
           }
         ]
       },
@@ -9916,12 +10420,16 @@
       {
         "id": 9,
         "name": "Switch TP-Link LS1008 8 Portas 10/100Mbps  Fast Ethernet, White",
-        "price": "R$ 59,90",
+        "price": "R$ 69,90",
         "url": "https://www.terabyteshop.com.br/produto/13816/switch-tp-link-ls1008-8-portas-10100mbps-fast-ethernet-white",
         "price_updates": [
           {
             "date": "20/12/2023",
             "price": "R$ 59,90"
+          },
+          {
+            "date": "29/01/2024",
+            "price": "R$ 69,90"
           }
         ]
       },
@@ -9940,12 +10448,16 @@
       {
         "id": 11,
         "name": "Access Point TP-Link Wireless N 300Mbps Montável em Teto, EAP115",
-        "price": "R$ 235,90",
+        "price": "R$ 199,90",
         "url": "https://www.terabyteshop.com.br/produto/13174/access-point-tp-link-wireless-n-300mbps-montavel-em-teto-eap115",
         "price_updates": [
           {
             "date": "20/12/2023",
             "price": "R$ 235,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 199,90"
           }
         ]
       },
@@ -9988,24 +10500,32 @@
       {
         "id": 15,
         "name": "Roteador TP-LINK Wireless EC220-G5, Dual Band, AC1200, EC220-G5",
-        "price": "R$ 219,90",
+        "price": "R$ 179,90",
         "url": "https://www.terabyteshop.com.br/produto/15431/roteador-tp-link-wireless-ec220-g5-dual-band-ac1200-ec220-g5",
         "price_updates": [
           {
             "date": "20/12/2023",
             "price": "R$ 219,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 179,90"
           }
         ]
       },
       {
         "id": 16,
         "name": "Roteador TP-LINK Wireless Archer C80, AC1900, MU-MIMO, Archer C80",
-        "price": "R$ 359,90",
+        "price": "R$ 319,90",
         "url": "https://www.terabyteshop.com.br/produto/15332/roteador-tp-link-wireless-archer-c80-ac1900-mu-mimo-archer-c80",
         "price_updates": [
           {
             "date": "20/12/2023",
             "price": "R$ 359,90"
+          },
+          {
+            "date": "28/01/2024",
+            "price": "R$ 319,90"
           }
         ]
       },

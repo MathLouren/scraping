@@ -1,6 +1,9 @@
-from selenium import webdriver
-from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from seleniumwire import webdriver as wiredriver
+from selenium import webdriver
 import time
 import json
 import uuid
@@ -16,10 +19,10 @@ options = {
 def generate_random_id():
     return str(uuid.uuid4())
 
-url = "https://www.kabum.com.br/hardware/ssd-2-5"
+url = "https://www.kabum.com.br/computadores/notebooks/notebook-gigabyte"
 
 try:
-    with open("kabum.json", "r", encoding='utf-8') as json_file:
+    with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "r", encoding='utf-8') as json_file:
         existing_data = json.load(json_file)
 except FileNotFoundError:
     # Se o arquivo não existir, inicialize com uma lista vazia
@@ -35,12 +38,13 @@ def create_item():
 
 
     if url in urls_in_json:
-        check_itens()
+        init_check()
     else:
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument('--headless')
 
-        driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
+        driver = webdriver.Chrome(options=chrome_options)
+
         driver.get(url)
 
         penultimo_li = driver.find_element(By.CSS_SELECTOR, '.pagination li:nth-last-child(2)')
@@ -90,98 +94,103 @@ def create_item():
 
         # Salve os dados atualizados no arquivo JSON (fora do loop)
         existing_data.append(result_data)
-        with open("kabum.json", "w", encoding='utf-8') as json_file:
+        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
-
-def check_itens():
-    urls_json = []
-    urls_now = []
-    for item in existing_data:
-        if item["url"] == url:
-            for url_item in item['products']:
-                urls_json.append(url_item['url'])
-
-    chrome_options = webdriver.ChromeOptions()
-
+def init_check():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
-    driver.get(url)
+    driver = webdriver.Chrome(options=chrome_options)
 
-    penultimo_li = driver.find_element(By.CSS_SELECTOR, '.pagination li:nth-last-child(2)')
-    penultimo_li = int(penultimo_li.text)
+    def check_itens():
+        print("Executando Kabum Scraping...")
+        urls_json = []
+        urls_now = []
+        for item in existing_data:
+            if item["url"] == url:
+                for url_item in item['products']:
+                    urls_json.append(url_item['url'])
 
-    contador = 0
+        driver.get(url)
 
-    data_atual = time.localtime()
-    # Formata apenas a data usando strftime
-    formato_data = "%d/%m/%Y"
-    save_date = time.strftime(formato_data, data_atual)
+        try:
+            penultimo_li = driver.find_element(By.CSS_SELECTOR, '.pagination li:nth-last-child(2)')
+            penultimo_li = int(penultimo_li.text)
+        except:
+            penultimo_li = int(1)
 
+        contador = 0
 
-    try:
-        while contador <= penultimo_li:
-            itens = driver.find_elements(By.CSS_SELECTOR, 'main .productCard')
-            for item in itens:
-                title_item = item.find_element(By.CSS_SELECTOR, 'main .nameCard').text
-                url_item = item.find_element(By.CSS_SELECTOR, 'main .productLink').get_attribute('href')
-                price_item = item.find_element(By.CSS_SELECTOR, 'main .priceCard').text
-                urls_now.append(url_item)
-                if price_item != "R$ ----":
-                    if url_item in urls_json:
-                        for product in existing_data:
-                            if product["url"] == url:
-                                for itn in product['products']:
-                                    if itn['url'] == url_item:
-                                        if itn['price'] != price_item:
-                                            print(f'Preço antigo {itn["price"]} : Preço Novo {price_item} ')
-                                            itn['price'] = price_item
-                                            update_entry = {
-                                                "date": time.strftime("%d/%m/%Y"),
-                                                "price": f"{price_item}"
-                                            }
-                                            itn['price_updates'].append(update_entry)
+        data_atual = time.localtime()
+        # Formata apenas a data usando strftime
+        formato_data = "%d/%m/%Y"
+        save_date = time.strftime(formato_data, data_atual)
 
-                                            with open("kabum.json", "w", encoding='utf-8') as json_file:
-                                                json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
+        try:
+            while contador <= penultimo_li:
+                itens = driver.find_elements(By.CSS_SELECTOR, 'main .productCard')
+                for item in itens:
+                    title_item = item.find_element(By.CSS_SELECTOR, 'main .nameCard').text
+                    url_item = item.find_element(By.CSS_SELECTOR, 'main .productLink').get_attribute('href')
+                    price_item = item.find_element(By.CSS_SELECTOR, 'main .priceCard').text
+                    urls_now.append(url_item)
+                    if price_item != "R$ ----":
+                        if url_item in urls_json:
+                            for product in existing_data:
+                                if product["url"] == url:
+                                    for itn in product['products']:
+                                        if itn['url'] == url_item:
+                                            if itn['price'] != price_item:
+                                                print(f'Preço antigo {itn["price"]} : Preço Novo {price_item} ')
+                                                itn['price'] = price_item
+                                                update_entry = {
+                                                    "date": time.strftime("%d/%m/%Y"),
+                                                    "price": f"{price_item}"
+                                                }
+                                                itn['price_updates'].append(update_entry)
 
-                    if url_item not in urls_json:
-                        for product in existing_data:
-                            random_id = generate_random_id()
-                            if product["url"] == url:
-                                product["products"].append({
-                                    "id": random_id,
-                                    "name": title_item,
-                                    "price": price_item,
-                                    "url": url_item,
-                                    "price_updates": [{"date": save_date, "price": price_item}]
-                                })
+                                                with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "w", encoding='utf-8') as json_file:
+                                                    json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
-                                with open("kabum.json", "w", encoding='utf-8') as json_file:
-                                    json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
+                        if url_item not in urls_json:
+                            for product in existing_data:
+                                random_id = generate_random_id()
+                                if product["url"] == url:
+                                    product["products"].append({
+                                        "id": random_id,
+                                        "name": title_item,
+                                        "price": price_item,
+                                        "url": url_item,
+                                        "price_updates": [{"date": save_date, "price": price_item}]
+                                    })
 
-                                print(f'O item com url: {url_item} foi adicionado')
+                                    with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "w", encoding='utf-8') as json_file:
+                                        json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
-
-                else:
-                    driver.find_element(By.CSS_SELECTOR, '.FJIDSFIUSHF').click()
-
-            next_btn = driver.find_element(By.CSS_SELECTOR, '.nextLink')
-            next_btn.click()
-            time.sleep(3)
-            contador += 1
-    except:
-        time.sleep(10)
-        pass
-
-
+                                    print(f'O item com url: {url_item} foi adicionado')
 
 
+                    else:
+                        driver.find_element(By.CSS_SELECTOR, '.FJIDSFIUSHF').click()
 
-# create_item()
+                next_btn = driver.find_element(By.CSS_SELECTOR, '.nextLink')
+                next_btn.click()
+                time.sleep(3)
+                contador += 1
+        except:
+            time.sleep(10)
+            pass
 
-for item in existing_data:
-    url = item['url']
-    check_itens()
+    for item in existing_data:
+        url = item['url']
+        try:
+            print(item['file_name'])
+        except:
+            pass
+        try:
+            check_itens()
+        except:
+            pass
+
+create_item()

@@ -1,0 +1,96 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<section>
+    <ul class="info">
+        <a href="{{ data.url }}" target="_blank">
+            <li>{{ data.name }}</li>
+            <li style="font-weight: 500; font-size:2rem;">R$ {{ data.price }}</li>
+        </a>
+    </ul>
+
+    <div class="chart-container"></div>
+
+    <ul class="prices_info" hidden>
+        {% for item in data.price_updates %}
+            <li>{{ item.date }}</li>
+            <li>{{ item.price }}</li>
+        {% endfor %}
+    </ul>
+</section>
+
+<style>
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 800px;
+        margin: auto;
+    }
+
+    .info {
+        width: 100%;
+        max-width: 500px;
+        margin-bottom: 20px;
+    }
+
+    .info ul {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .info li {
+        font-size: 1.7rem;
+        margin: 20px auto;
+    }
+
+    .chart-container {
+        width: 100%;
+        max-width: 700px;
+    }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const chartContainer = document.querySelector('.chart-container');
+        initializeCharts(chartContainer);
+
+        function initializeCharts(chartContainer) {
+            let closestUl = chartContainer.nextElementSibling;
+
+            if (closestUl && closestUl.classList.contains('prices_info')) {
+                const dates = Array.from(closestUl.querySelectorAll('li:nth-child(odd)')).map(li => li.innerText.trim());
+                const prices = Array.from(closestUl.querySelectorAll('li:nth-child(even)')).map(li => parseFloat(li.innerText.replace('R$', '').trim()));
+
+                if (prices.length > 0) {
+                    const labels = dates;
+                    const data = prices;
+
+                    const options = {
+                        chart: {
+                            type: 'line',
+                            height: '300',
+                            foreColor: '#333',
+                        },
+                        series: [{
+                            name: 'Histórico de Preços',
+                            data: data,
+                        }],
+                        xaxis: {
+                            categories: labels,
+                        },
+                    };
+
+                    const chart = new ApexCharts(chartContainer, options);
+                    chart.render();
+                }
+            }
+        }
+    });
+</script>
+
+{% endblock %}

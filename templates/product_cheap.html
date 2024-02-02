@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<section>
+    <ul style="display:flex; flex-direction:column; width:100%; max-width:1100px;">
+        {% for item in cheap_products %}
+            <a href="{{item['url']}}" target="_blank">
+                <li style="font-size:1.5rem;">{{item['name']}}</li>
+                <li style="font-size:1.3rem;">R$ {{item['current_price']}}</li>
+            </a>
+        {% endfor %}
+    </ul>
+</section>
+
+<style>
+    li{
+        margin:15px 0;
+    }
+</style>
+
+{% endblock %}

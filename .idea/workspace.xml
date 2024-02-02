@@ -4,21 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aad6501-0a80-46fd-9a6f-c07335508473" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/amazon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kabum.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terabyte.json" afterDir="false" />
+    <list default="true" id="5aad6501-0a80-46fd-9a6f-c07335508473" name="Changes" comment="Att">
+      <change afterPath="$PROJECT_DIR$/amazon/amazon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot_price/bot_kabum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot_price/bot_terabyte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/product_cheap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/template_products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Terabyte/backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/Terabyte/backup.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Terabyte/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Terabyte/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Terabyte/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/Terabyte/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon.json" beforeDir="false" afterPath="$PROJECT_DIR$/amazon.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/amazon/amz.py" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/amz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/backup.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/amazon/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/products.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kabum.json" beforeDir="false" afterPath="$PROJECT_DIR$/kabum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kabum/backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/kabum/backup.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kabum/kabum.py" beforeDir="false" afterPath="$PROJECT_DIR$/kabum/kabum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kabum/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/kabum/products.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kabum/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/kabum/kabum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/amazon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/kabum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/terabyte.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/terabyte.json" beforeDir="false" afterPath="$PROJECT_DIR$/terabyte.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,12 +64,13 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Matheus Lourenço/PycharmProjects/scraping&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Matheus Lourenço/PycharmProjects/scraping/amazon&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon" />
       <recent name="C:\Users\Matheus Lourenço\PycharmProjects\scraping" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +80,7 @@
       <recent name="C:\Users\Matheus Lourenço\PycharmProjects\scraping\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.init">
+  <component name="RunManager" selected="Python.kabum">
     <configuration name="amz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bot_amazon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bot_price" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/init.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot_price/bot_amazon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.init" />
         <item itemvalue="Python.kabum" />
-        <item itemvalue="Python.amz" />
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.amz" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.bot_amazon" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +226,18 @@
       <option name="presentableId" value="Default" />
       <updated>1701094182137</updated>
     </task>
+    <task id="LOCAL-00001" summary="Att">
+      <created>1704243176537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704243176537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Att" />
+    <option name="LAST_COMMIT_MESSAGE" value="Att" />
   </component>
 </project>
