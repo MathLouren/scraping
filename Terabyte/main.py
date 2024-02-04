@@ -64,7 +64,7 @@ def create_items():
 
         # Carregue os dados existentes do arquivo JSON
         try:
-            with open("terabyte.json", "r", encoding='utf-8') as existing_json_file:
+            with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json", "r", encoding='utf-8') as existing_json_file:
                 existing_data = json.load(existing_json_file)
 
             for item in existing_data:
@@ -110,11 +110,11 @@ def create_items():
                         continue
 
                 # Salve os dados em um novo arquivo JSON
-                with open(r'C:\Users\Matheus Lourenço\PycharmProjects\scraping\terabyte.json', "w", encoding='utf-8') as json_file:
+                with open(r'C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json', "w", encoding='utf-8') as json_file:
                     existing_data.append(result_data)
                     json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
-            with open(r'C:\Users\Matheus Lourenço\PycharmProjects\scraping\terabyte.json', 'r', encoding='utf-8') as f:
+            with open(r'C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json', 'r', encoding='utf-8') as f:
                 data_all = json.load(f)
 
         except:
@@ -144,7 +144,7 @@ def create_items():
                 except:
                     continue
 
-            with open(r'C:\Users\Matheus Lourenço\PycharmProjects\scraping\terabyte.json', "w", encoding='utf-8') as json_file:
+            with open(r'C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json', "w", encoding='utf-8') as json_file:
                 json.dump([result_data], json_file, indent=2, ensure_ascii=False)
 
     finally:
@@ -161,7 +161,7 @@ def update_prices():
         target_file_name = title
 
         try:
-            with open(r'C:\Users\Matheus Lourenço\PycharmProjects\scraping\terabyte.json', 'r', encoding='utf-8') as json_file:
+            with open(r'C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json', 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
 
             for item in data:
@@ -187,7 +187,7 @@ def update_prices():
                                             print(f"Preço atualizado para: {product['price']}")
 
                                             # Salve as alterações de volta no arquivo JSON
-                                            with open(r'C:\Users\Matheus Lourenço\PycharmProjects\scraping\terabyte.json', 'w', encoding='utf-8') as json_file:
+                                            with open(r'C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json', 'w', encoding='utf-8') as json_file:
                                                 json.dump(data, json_file, indent=2, ensure_ascii=False)
                                     else:
                                         pass
@@ -266,7 +266,7 @@ def update_prices():
 
 
 
-    with open(r'C:\Users\Matheus Lourenço\PycharmProjects\scraping\terabyte.json', 'r', encoding='utf-8') as f:
+    with open(r'C:\Users\admin\PycharmProjects\pythonProject\scraping\terabyte.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     for item in data:

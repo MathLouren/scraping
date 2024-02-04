@@ -95,7 +95,7 @@ def create():
         # Your existing logic to print the product name based on the URL
         if "kabum.com" in products_url:
             print('Kabum')
-            data = read_from_file(r"C:\Users\admin\PycharmProjects\pythonProject1\kabum.json")
+            data = read_from_file(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\kabum.json")
         elif "amazon.com":
             create_items(products_url, title)
 
@@ -114,7 +114,7 @@ def home():
         cleaned_url = clean_url_amazon(url_produto)
         print(cleaned_url)
         if "amazon.com" in cleaned_url:
-            data = read_from_file(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json")
+            data = read_from_file(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json")
             for item in data:
                 for info in item['products']:
                     if cleaned_url == info['url']:
@@ -163,7 +163,7 @@ def kabum():
 
 @app.route('/product_cheap', methods=['GET', 'POST'])
 def product_cheap():
-    data = read_from_file(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json")
+    data = read_from_file(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json")
     cheap_products = []
 
     for info in data:
@@ -196,4 +196,4 @@ def product_cheap():
 
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=5000, debug=True)
+    app.run(host='45.131.46.229', port=5000, debug=True)

@@ -1,20 +1,22 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
-from seleniumwire import webdriver as wiredriver
-from selenium import webdriver
-import time
+from seleniumwire import webdriver
 import json
 import uuid
+import time
+
+proxy_options = {
+    'http': 'http://0bbe3ea206e21e7e:RNW78Fm5@185.130.105.109:10000',
+    'https': 'http://0bbe3ea206e21e7e:RNW78Fm5@185.130.105.109:10000',
+    'no_proxy': 'localhost,127.0.0.1'
+}
 
 options = {
-        'proxy': {
-            'http': 'http://5dab7c172c70a8eb:RNW78Fm5@185.130.105.109:10000',
-            'https': 'https://5dab7c172c70a8eb:RNW78Fm5@185.130.105.109:10000',
-            'no_proxy': 'localhost,127.0.0.1'
-        }
+    'proxy': {
+        'http': proxy_options['http'],
+        'https': proxy_options['https'],
+        'no_proxy': proxy_options['no_proxy']
     }
+}
 
 def generate_random_id():
     return str(uuid.uuid4())
@@ -22,7 +24,7 @@ def generate_random_id():
 url = "https://www.kabum.com.br/computadores/notebooks/notebook-gigabyte"
 
 try:
-    with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "r", encoding='utf-8') as json_file:
+    with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\kabum.json", "r", encoding='utf-8') as json_file:
         existing_data = json.load(json_file)
 except FileNotFoundError:
     # Se o arquivo não existir, inicialize com uma lista vazia
@@ -94,14 +96,14 @@ def create_item():
 
         # Salve os dados atualizados no arquivo JSON (fora do loop)
         existing_data.append(result_data)
-        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "w", encoding='utf-8') as json_file:
+        with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\kabum.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
 def init_check():
     chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--headless')
 
-    driver = webdriver.Chrome(options=chrome_options)
+    driver = webdriver.Chrome(chrome_options=chrome_options, seleniumwire_options=options)
 
     def check_itens():
         print("Executando Kabum Scraping...")
@@ -150,7 +152,7 @@ def init_check():
                                                 }
                                                 itn['price_updates'].append(update_entry)
 
-                                                with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "w", encoding='utf-8') as json_file:
+                                                with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\kabum.json", "w", encoding='utf-8') as json_file:
                                                     json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
                         if url_item not in urls_json:
@@ -165,7 +167,7 @@ def init_check():
                                         "price_updates": [{"date": save_date, "price": price_item}]
                                     })
 
-                                    with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\kabum.json", "w", encoding='utf-8') as json_file:
+                                    with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\kabum.json", "w", encoding='utf-8') as json_file:
                                         json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
                                     print(f'O item com url: {url_item} foi adicionado')
@@ -192,3 +194,5 @@ def init_check():
             check_itens()
         except:
             pass
+
+init_check()

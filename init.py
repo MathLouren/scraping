@@ -1,17 +1,16 @@
 import schedule
 import time
 from amazon.amz import verif_items
-from kabum.kabum import init_check
 
 def amazon():
     print("Verificando itens na Amazon...")
-    verif_items()
+    try:
+        verif_items()
+    except:
+        verif_items()
+    print("Fim do scraping da Amazon")
 
-def kabum():
-    init_check()
-
-schedule.every(30).minutes.do(amazon)
-schedule.every(120).minutes.do(kabum)
+schedule.every(40).minutes.do(amazon)
 
 # O loop abaixo mantém o programa em execução para verificar se as tarefas agendadas devem ser executadas
 while True:

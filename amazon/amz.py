@@ -5,11 +5,28 @@ from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
 import uuid
 import requests
-from telegram import Bot
-from telegram.constants import ParseMode
 
 bot_token = '6258576123:AAF8IBLPcOsBlEatsD5-RElTfoLiJLBvVm0'
 chat_id = '5980301890'
+
+
+def send_telegram_message(product_name, current_price, url, img):
+    api_url = f'https://api.telegram.org/bot{bot_token}/sendPhoto'
+    message = f'**{product_name}**\n\nR$ {current_price}\n\n{url}'
+
+    params = {
+        'chat_id': chat_id,
+        'photo': img,
+        'caption': message,
+        'parse_mode': 'Markdown'
+    }
+
+    response = requests.post(api_url, params=params)
+
+    if response.status_code != 200:
+        print(f'Erro ao enviar mensagem para o Telegram. Status Code: {response.status_code}')
+
+
 
 
 def generate_random_id():
@@ -41,7 +58,7 @@ def create_items(url, name):
 
     # Carregar dados existentes do arquivo JSON
     try:
-        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "r", encoding='utf-8') as json_file:
+        with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json", "r", encoding='utf-8') as json_file:
             existing_data = json.load(json_file)
     except FileNotFoundError:
         # Se o arquivo não existir, inicialize com uma lista vazia
@@ -96,7 +113,7 @@ def create_items(url, name):
                 pass
 
         # Salve os dados atualizados no arquivo JSON
-        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "w", encoding='utf-8') as json_file:
+        with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, indent=2, ensure_ascii=False)
 
         try:
@@ -122,7 +139,7 @@ def verif_items():
     urls_json = []
     urls_now = []
     try:
-        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "r", encoding='utf-8') as json_file:
+        with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json", "r", encoding='utf-8') as json_file:
             existing_data = json.load(json_file)
 
     except FileNotFoundError:
@@ -161,8 +178,12 @@ def verif_items():
             for item in itens:
                 index_item += 1
                 try:
+                    img_url_container = item.find_element(By.CLASS_NAME, 's-image')
+                    img_url = img_url_container.get_attribute("src")
                     title_item = item.find_element(By.CSS_SELECTOR, "h2").text
                     price_item = item.find_element(By.CLASS_NAME, 'a-price-whole').text
+                    price_fraction = item.find_element(By.CLASS_NAME, 'a-price-fraction').text
+                    price_total = f'{price_item},{price_fraction}'
                     url_item = item.find_element(By.CSS_SELECTOR, "h2 a").get_attribute("href")
                     parsed_url = urlparse(url_item)
                     base_url = f"{parsed_url.scheme}://{parsed_url.netloc}{parsed_url.path}"
@@ -173,13 +194,28 @@ def verif_items():
                             if pdr['url'] == base_url:
                                 if price_item != pdr['price']:
                                     print(f"O preço mudou de {pdr['price']} para {price_item}")
+                                    prices_total = []
+                                    data_total = []
+                                    for data in pdr['price_updates']:
+                                        data_total.append(data['date'])
+                                        prices_total.append(data['price'])
+                                    total_dates = len(data_total)
+                                    numeric_prices = [float(price) for price in prices_total]
+                                    average_price = sum(numeric_prices) / len(numeric_prices) if numeric_prices else 0
+                                    price_now = float(price_item)
+                                    low_price = average_price - average_price * 0.25
+                                    if price_now < low_price and total_dates > 5:
+                                        print('O preço está barato')
+                                        send_telegram_message(pdr['name'], price_total, pdr['url'], img_url)
+                                    else:
+                                        print('O preço não está barato')
                                     pdr['price'] = price_item
                                     update_entry = {
                                         "date": time.strftime("%d/%m/%Y"),
                                         "price": f"{price_item}"
                                     }
                                     pdr['price_updates'].append(update_entry)
-                                    with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "w", encoding='utf-8') as json_file:
+                                    with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json", "w",encoding='utf-8') as json_file:
                                         json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
                                 else:
                                     pass
@@ -209,7 +245,9 @@ def verif_items():
             except:
                 break
 
-        with open(r"C:\Users\Matheus Lourenço\PycharmProjects\scraping\amazon.json", "w", encoding='utf-8') as json_file:
+        with open(r"C:\Users\admin\PycharmProjects\pythonProject\scraping\amazon.json", "w", encoding='utf-8') as json_file:
             json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
     driver.quit()
+
+verif_items()
