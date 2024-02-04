@@ -4,10 +4,12 @@ from amazon.amz import verif_items
 
 def amazon():
     print("Verificando itens na Amazon...")
-    try:
-        verif_items()
-    except:
-        verif_items()
+    while True:
+        try:
+            verif_items()
+            break  # Se a função foi executada com sucesso, saia do loop
+        except Exception as e:
+            print(f"Ocorreu um erro: {e}. Tentando novamente...")
     print("Fim do scraping da Amazon")
 
 schedule.every(40).minutes.do(amazon)
