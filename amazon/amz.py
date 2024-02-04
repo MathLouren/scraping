@@ -205,10 +205,7 @@ def verif_items():
                                     price_now = float(price_item)
                                     low_price = average_price - average_price * 0.25
                                     if price_now < low_price and total_dates > 5:
-                                        print('O preço está barato')
                                         send_telegram_message(pdr['name'], price_total, pdr['url'], img_url)
-                                    else:
-                                        print('O preço não está barato')
                                     pdr['price'] = price_item
                                     update_entry = {
                                         "date": time.strftime("%d/%m/%Y"),
@@ -249,5 +246,3 @@ def verif_items():
             json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
     driver.quit()
-
-verif_items()
