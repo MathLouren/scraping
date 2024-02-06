@@ -147,8 +147,7 @@ def verif_items():
 
     # Configuração do Chrome
     chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
-
+    # chrome_options.add_argument('--headless')
     driver = webdriver.Chrome(options=chrome_options)
 
     itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
