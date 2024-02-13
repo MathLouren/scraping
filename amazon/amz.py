@@ -147,7 +147,7 @@ def verif_items():
 
     # Configuração do Chrome
     chrome_options = webdriver.ChromeOptions()
-    # chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--headless')
     driver = webdriver.Chrome(options=chrome_options)
 
     itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
@@ -203,7 +203,7 @@ def verif_items():
                                     average_price = sum(numeric_prices) / len(numeric_prices) if numeric_prices else 0
                                     price_now = float(price_item)
                                     low_price = average_price - average_price * 0.25
-                                    if price_now < low_price and total_dates > 5:
+                                    if price_now < low_price and total_dates > 5 and pdr['url'] != "https://www.amazon.com.br/sspa":
                                         send_telegram_message(pdr['name'], price_total, pdr['url'], img_url)
                                     pdr['price'] = price_item
                                     update_entry = {
