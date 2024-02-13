@@ -125,12 +125,12 @@ def create_items(url, name):
                 print('Indo para próxima pag')
                 next_btn = driver.find_element(By.CSS_SELECTOR, ".s-pagination-next")
                 next_btn.click()
-                time.sleep(5)
+                time.sleep(3)
         except Exception as e:
             print("Error:", str(e))
             break
 
-        time.sleep(5)
+        time.sleep(3)
 
     driver.quit()
 
@@ -147,7 +147,7 @@ def verif_items():
 
     # Configuração do Chrome
     chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--headless')
     driver = webdriver.Chrome(options=chrome_options)
 
     itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
@@ -237,7 +237,9 @@ def verif_items():
                     # Indo para próxima pag
                     next_btn = driver.find_element(By.CSS_SELECTOR, ".s-pagination-next")
                     next_btn.click()
-                    time.sleep(3)
+                    time.sleep(5)
+                    driver.refresh()
+                    time.sleep(2)
             except:
                 break
 
