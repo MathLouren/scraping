@@ -147,7 +147,7 @@ def verif_items():
 
     # Configuração do Chrome
     chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
+    # chrome_options.add_argument('--headless')
     driver = webdriver.Chrome(options=chrome_options)
 
     itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
@@ -160,16 +160,12 @@ def verif_items():
             urls_json.append(item['url'])
         print(product['file_name'])
         driver.get(product['url'])
-        for attempt in range(max_attempts):
-            try:
-                error = driver.find_element(By.XPATH, '//*[@id="h"]/div/a/img').text
-            except:
-                break
 
-            driver.refresh()
-            time.sleep(2)
+        time.sleep(5)
 
-        time.sleep(1)
+        driver.refresh()
+
+        time.sleep(3)
         while True:
             itens = driver.find_elements(By.CSS_SELECTOR, '[data-asin]')
             save_date = time.strftime("%d/%m/%Y")
