@@ -6,25 +6,15 @@ from flask import jsonify
 from urllib.parse import urlparse, urlunparse
 from amazon.amz import create_items, verif_items
 
-# Defina a formatação de moeda local para o Brasil
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 app = Flask(__name__)
 
 def is_product_cheap(product):
-    # Obtém a lista de preços do histórico
     prices = [float(update["price"]) for update in product["price_updates"]]
-
-    # Calcula a média dos preços
     average_price = sum(prices) / len(prices) if prices else 0
-
-    # Obtém o preço mais baixo
     lowest_price = min(prices) if prices else 0
-
-    # Define um fator de desconto (ajuste conforme necessário)
     discount_factor = 0.8
-
-    # Calcula o preço considerado "barato" (80% do preço mais baixo)
     cheap_threshold = lowest_price * discount_factor
 
     # Verifica se o preço atual está abaixo da média e abaixo do limiar considerado "barato"
